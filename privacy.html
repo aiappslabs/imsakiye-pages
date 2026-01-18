@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İmsakiye 2026 - Gizlilik Politikası</title>
+    <meta name="description" content="İmsakiye 2026 uygulaması gizlilik politikası">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1A4D4D;
+            --secondary: #2D5F3F;
+            --accent: #D4AF37;
+            --bg-gradient-start: #0f2027;
+            --bg-gradient-mid: #203a43;
+            --bg-gradient-end: #2c5364;
+            --text-light: #ffffff;
+            --text-muted: #b0c4c4;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-mid) 50%, var(--bg-gradient-end) 100%);
+            min-height: 100vh;
+            color: var(--text-light);
+            line-height: 1.8;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* Header */
+        header {
+            padding: 20px 0 40px;
+            text-align: center;
+        }
+
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--accent);
+            text-decoration: none;
+            margin-bottom: 20px;
+            transition: opacity 0.3s ease;
+        }
+
+        .back-link:hover {
+            opacity: 0.8;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            background: linear-gradient(90deg, var(--accent), #f0d78c);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        /* Content */
+        .content {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            padding: 40px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+            color: var(--accent);
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 15px;
+        }
+
+        .update-date {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            font-size: 1.3rem;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            color: var(--accent);
+        }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text-muted);
+        }
+
+        ul {
+            margin-left: 25px;
+            margin-bottom: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+            color: var(--text-muted);
+        }
+
+        li strong {
+            color: var(--text-light);
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .content {
+                padding: 25px;
+            }
+
+            h1 {
+                font-size: 1.6rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Ana Sayfa</a>
+            <div class="logo">🌙 İmsakiye 2026</div>
+        </header>
+
+        <main class="content">
+            <h1>Gizlilik Politikası</h1>
+            <p class="update-date">Son Güncelleme: 18 Ocak 2026</p>
+
+            <p><strong>İmsakiye 2026</strong> uygulaması ("Uygulama"), kullanıcılarının gizliliğine saygı duyar. Bu
+                Gizlilik Politikası, uygulamamızı kullandığınızda verilerinizin nasıl toplandığını, kullanıldığını ve
+                paylaşıldığını açıklar.</p>
+
+            <h2>1. Toplanan Bilgiler</h2>
+            <p>Uygulamamız, hizmetin doğası gereği aşağıdaki bilgileri işleyebilir:</p>
+            <ul>
+                <li><strong>Konum Bilgisi:</strong> Namaz vakitlerini doğru hesaplamak için hassas olmayan konum
+                    verilerini (Şehir/İlçe seçimi) kullanırız. Konum verileriniz cihazınızda işlenir ve sunucularımızda
+                    kalıcı olarak saklanmaz.</li>
+                <li><strong>Cihaz Bilgileri:</strong> Uygulama performansı ve hata takibi için anonim cihaz bilgileri
+                    (model, işletim sistemi sürümü vb.) toplanabilir.</li>
+            </ul>
+
+            <h2>2. Bilgilerin Kullanımı</h2>
+            <p>Topladığımız bilgiler şu amaçlarla kullanılır:</p>
+            <ul>
+                <li>Size konumunuza özel namaz vakitlerini sunmak.</li>
+                <li>Uygulamanın işlevselliğini geliştirmek ve hataları gidermek.</li>
+                <li>İftar ve sahur bildirimlerini zamanında göndermek.</li>
+            </ul>
+
+            <h2>3. Üçüncü Taraf Hizmetler</h2>
+            <p>Uygulama, reklam gösterimi veya analitik takibi için üçüncü taraf hizmet sağlayıcıları (örn. Google
+                AdMob, Firebase Analytics) kullanabilir. Bu sağlayıcılar, kendi gizlilik politikalarına tabi olarak veri
+                toplayabilir.</p>
+
+            <h2>4. Güvenlik</h2>
+            <p>Verilerinizin güvenliği bizim için önemlidir, ancak internet üzerinden hiçbir iletim yönteminin veya
+                elektronik depolama yönteminin %100 güvenli olmadığını unutmayın.</p>
+
+            <h2>5. İletişim</h2>
+            <p>Gizlilik politikamızla ilgili sorularınız için bizimle iletişime geçebilirsiniz: <a
+                    href="mailto:aiapps.labs@gmail.com">aiapps.labs@gmail.com</a></p>
+        </main>
+
+        <footer>
+            <p>© 2026 AI Apps Labs. Tüm hakları saklıdır.</p>
+        </footer>
+    </div>
+</body>
+
+</html>

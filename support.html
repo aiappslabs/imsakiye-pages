@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İmsakiye 2026 - Destek</title>
+    <meta name="description" content="İmsakiye 2026 uygulaması destek sayfası">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1A4D4D;
+            --secondary: #2D5F3F;
+            --accent: #D4AF37;
+            --bg-gradient-start: #0f2027;
+            --bg-gradient-mid: #203a43;
+            --bg-gradient-end: #2c5364;
+            --text-light: #ffffff;
+            --text-muted: #b0c4c4;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-mid) 50%, var(--bg-gradient-end) 100%);
+            min-height: 100vh;
+            color: var(--text-light);
+            line-height: 1.8;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* Header */
+        header {
+            padding: 20px 0 40px;
+            text-align: center;
+        }
+
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--accent);
+            text-decoration: none;
+            margin-bottom: 20px;
+            transition: opacity 0.3s ease;
+        }
+
+        .back-link:hover {
+            opacity: 0.8;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            background: linear-gradient(90deg, var(--accent), #f0d78c);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        /* Content */
+        .content {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            padding: 40px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 30px;
+            color: var(--accent);
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 15px;
+        }
+
+        h2 {
+            font-size: 1.3rem;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            color: var(--accent);
+        }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text-muted);
+        }
+
+        /* Contact Card */
+        .contact-card {
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 16px;
+            padding: 30px;
+            margin-top: 30px;
+            text-align: center;
+        }
+
+        .contact-card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+            color: var(--text-light);
+        }
+
+        .email-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: linear-gradient(90deg, var(--accent), #f0d78c);
+            color: #1a1a1a;
+            padding: 14px 28px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .email-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(212, 175, 55, 0.4);
+        }
+
+        /* FAQ Section */
+        .faq-item {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+        }
+
+        .faq-item h3 {
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+            color: var(--text-light);
+        }
+
+        .faq-item p {
+            margin-bottom: 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .content {
+                padding: 25px;
+            }
+
+            h1 {
+                font-size: 1.6rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Ana Sayfa</a>
+            <div class="logo">🌙 İmsakiye 2026</div>
+        </header>
+
+        <main class="content">
+            <h1>Destek</h1>
+
+            <p>İmsakiye 2026 uygulamasını kullandığınız için teşekkür ederiz. Sorularınız veya geri bildirimleriniz için
+                bizimle iletişime geçebilirsiniz.</p>
+
+            <h2>Sıkça Sorulan Sorular</h2>
+
+            <div class="faq-item">
+                <h3>Namaz vakitleri nereden alınıyor?</h3>
+                <p>Namaz vakitleri Diyanet İşleri Başkanlığı'nın resmi verilerine dayanmaktadır.</p>
+            </div>
+
+            <div class="faq-item">
+                <h3>Bildirimler çalışmıyor, ne yapmalıyım?</h3>
+                <p>Lütfen cihaz ayarlarınızdan uygulama için bildirim izinlerinin açık olduğundan emin olun. Ayrıca pil
+                    tasarrufu modunun bildirimleri engelleyebileceğini unutmayın.</p>
+            </div>
+
+            <div class="faq-item">
+                <h3>Şehrim/ilçem listede yok, nasıl ekletebilirim?</h3>
+                <p>Lütfen aşağıdaki e-posta adresi üzerinden konum bilgilerinizle birlikte bizimle iletişime geçin.</p>
+            </div>
+
+            <div class="faq-item">
+                <h3>Uygulama ücretsiz mi?</h3>
+                <p>Evet, İmsakiye 2026 tamamen ücretsiz bir uygulamadır. Uygulama reklam destekli olarak çalışmaktadır.
+                </p>
+            </div>
+
+            <div class="contact-card">
+                <h3>Başka sorularınız mı var?</h3>
+                <p>Bize e-posta gönderin, en kısa sürede yanıtlayalım.</p>
+                <a href="mailto:aiapps.labs@gmail.com" class="email-link">
+                    📧 aiapps.labs@gmail.com
+                </a>
+            </div>
+        </main>
+
+        <footer>
+            <p>© 2026 AI Apps Labs. Tüm hakları saklıdır.</p>
+        </footer>
+    </div>
+</body>
+
+</html>
