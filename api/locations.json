@@ -1,0 +1,460 @@
+[
+  {
+    "id": "2",
+    "name": "TÜRKİYE",
+    "cities": [
+      {
+        "id": "500",
+        "name": "ADANA",
+        "towns": [
+          {
+            "id": "9146",
+            "name": "ADANA"
+          },
+          {
+            "id": "9147",
+            "name": "ALADAĞ"
+          },
+          {
+            "id": "9148",
+            "name": "CEYHAN"
+          },
+          {
+            "id": "9149",
+            "name": "FEKE"
+          },
+          {
+            "id": "9150",
+            "name": "İMAMOĞLU"
+          },
+          {
+            "id": "9151",
+            "name": "KARAISALI"
+          },
+          {
+            "id": "9152",
+            "name": "KARATAŞ"
+          },
+          {
+            "id": "9153",
+            "name": "KOZAN"
+          },
+          {
+            "id": "9154",
+            "name": "POZANTI"
+          },
+          {
+            "id": "9155",
+            "name": "SAİMBEYLİ"
+          },
+          {
+            "id": "9156",
+            "name": "TUFANBEYLİ"
+          },
+          {
+            "id": "9157",
+            "name": "YUMURTALIK"
+          }
+        ]
+      },
+      {
+        "id": "501",
+        "name": "ADIYAMAN",
+        "towns": [
+          {
+            "id": "9158",
+            "name": "ADIYAMAN"
+          },
+          {
+            "id": "9159",
+            "name": "BESNİ"
+          },
+          {
+            "id": "9160",
+            "name": "ÇELİKHAN"
+          },
+          {
+            "id": "9161",
+            "name": "GERGER"
+          },
+          {
+            "id": "9162",
+            "name": "GÖLBAŞI"
+          },
+          {
+            "id": "9163",
+            "name": "KAHTA"
+          },
+          {
+            "id": "9164",
+            "name": "SAMSAT"
+          },
+          {
+            "id": "9165",
+            "name": "SİNCİK"
+          },
+          {
+            "id": "9166",
+            "name": "TUT"
+          }
+        ]
+      },
+      {
+        "id": "502",
+        "name": "AFYONKARAHİSAR",
+        "towns": [
+          {
+            "id": "9167",
+            "name": "AFYONKARAHİSAR"
+          },
+          {
+            "id": "9168",
+            "name": "BAŞMAKÇI"
+          },
+          {
+            "id": "9169",
+            "name": "BAYAT"
+          },
+          {
+            "id": "9170",
+            "name": "BOLVADİN"
+          },
+          {
+            "id": "9171",
+            "name": "ÇAY"
+          },
+          {
+            "id": "9172",
+            "name": "ÇOBANLAR"
+          },
+          {
+            "id": "9173",
+            "name": "DAZKIRI"
+          },
+          {
+            "id": "9174",
+            "name": "DİNAR"
+          },
+          {
+            "id": "9175",
+            "name": "EMİRDAĞ"
+          },
+          {
+            "id": "9176",
+            "name": "EVCİLER"
+          },
+          {
+            "id": "9177",
+            "name": "HOCALAR"
+          },
+          {
+            "id": "9178",
+            "name": "İHSANİYE"
+          },
+          {
+            "id": "9179",
+            "name": "İSCEHİSAR"
+          },
+          {
+            "id": "9180",
+            "name": "KIZILÖREN"
+          },
+          {
+            "id": "9181",
+            "name": "SANDIKLI"
+          },
+          {
+            "id": "9182",
+            "name": "SİNANPAŞA"
+          },
+          {
+            "id": "9183",
+            "name": "ŞUHUT"
+          },
+          {
+            "id": "9184",
+            "name": "SULTANDAĞI"
+          }
+        ]
+      },
+      {
+        "id": "503",
+        "name": "AĞRI",
+        "towns": [
+          {
+            "id": "9185",
+            "name": "AĞRI"
+          },
+          {
+            "id": "9186",
+            "name": "DİYADİN"
+          },
+          {
+            "id": "9187",
+            "name": "DOĞUBEYAZIT"
+          },
+          {
+            "id": "9188",
+            "name": "ELEŞKİRT"
+          },
+          {
+            "id": "9189",
+            "name": "PATNOS"
+          },
+          {
+            "id": "9190",
+            "name": "TAŞLIÇAY"
+          },
+          {
+            "id": "9191",
+            "name": "TUTAK"
+          }
+        ]
+      },
+      {
+        "id": "504",
+        "name": "AKSARAY",
+        "towns": [
+          {
+            "id": "9192",
+            "name": "AĞAÇÖREN"
+          },
+          {
+            "id": "9193",
+            "name": "AKSARAY"
+          },
+          {
+            "id": "9194",
+            "name": "ESKİL"
+          },
+          {
+            "id": "9195",
+            "name": "GÜLAĞAÇ"
+          },
+          {
+            "id": "9196",
+            "name": "GÜZELYURT"
+          },
+          {
+            "id": "17877",
+            "name": "ORTAKÖY"
+          },
+          {
+            "id": "9197",
+            "name": "SARIYAHŞİ"
+          },
+          {
+            "id": "20069",
+            "name": "SULTANHANI"
+          }
+        ]
+      },
+      {
+        "id": "505",
+        "name": "AMASYA",
+        "towns": [
+          {
+            "id": "9198",
+            "name": "AMASYA"
+          },
+          {
+            "id": "9199",
+            "name": "GÖYNÜCEK"
+          },
+          {
+            "id": "9200",
+            "name": "GÜMÜŞHACIKÖY"
+          },
+          {
+            "id": "9201",
+            "name": "HAMAMÖZÜ"
+          },
+          {
+            "id": "9202",
+            "name": "MERZİFON"
+          },
+          {
+            "id": "9203",
+            "name": "SULUOVA"
+          },
+          {
+            "id": "9204",
+            "name": "TAŞOVA"
+          }
+        ]
+      },
+      {
+        "id": "506",
+        "name": "ANKARA",
+        "towns": [
+          {
+            "id": "9205",
+            "name": "AKYURT"
+          },
+          {
+            "id": "9206",
+            "name": "ANKARA"
+          },
+          {
+            "id": "9207",
+            "name": "AYAŞ"
+          },
+          {
+            "id": "9208",
+            "name": "BALA"
+          },
+          {
+            "id": "9209",
+            "name": "BEYPAZARI"
+          },
+          {
+            "id": "9210",
+            "name": "ÇAMLIDERE"
+          },
+          {
+            "id": "9211",
+            "name": "CUBUK"
+          },
+          {
+            "id": "9212",
+            "name": "ELMADAĞ"
+          },
+          {
+            "id": "9213",
+            "name": "EVREN"
+          },
+          {
+            "id": "9214",
+            "name": "GÜDÜL"
+          },
+          {
+            "id": "9215",
+            "name": "HAYMANA"
+          },
+          {
+            "id": "9217",
+            "name": "KAHRAMANKAZAN"
+          },
+          {
+            "id": "9216",
+            "name": "KALECİK"
+          },
+          {
+            "id": "9218",
+            "name": "KIZILCAHAMAM"
+          },
+          {
+            "id": "9219",
+            "name": "NALLIHAN"
+          },
+          {
+            "id": "9220",
+            "name": "POLATLI"
+          },
+          {
+            "id": "9221",
+            "name": "ŞEREFLİKOÇHİSAR"
+          }
+        ]
+      },
+      {
+        "id": "507",
+        "name": "ANTALYA",
+        "towns": [
+          {
+            "id": "9222",
+            "name": "AKSEKİ"
+          },
+          {
+            "id": "9223",
+            "name": "AKSU"
+          },
+          {
+            "id": "9224",
+            "name": "ALANYA"
+          },
+          {
+            "id": "9225",
+            "name": "ANTALYA"
+          },
+          {
+            "id": "9226",
+            "name": "DEMRE"
+          },
+          {
+            "id": "9227",
+            "name": "ELMALI"
+          },
+          {
+            "id": "9228",
+            "name": "FİNİKE"
+          },
+          {
+            "id": "9229",
+            "name": "GAZİPAŞA"
+          },
+          {
+            "id": "9230",
+            "name": "GÜNDOĞMUŞ"
+          },
+          {
+            "id": "9231",
+            "name": "İBRADI"
+          },
+          {
+            "id": "9232",
+            "name": "KAŞ"
+          },
+          {
+            "id": "9233",
+            "name": "KEMER"
+          },
+          {
+            "id": "9234",
+            "name": "KORKUTELİ"
+          },
+          {
+            "id": "9235",
+            "name": "KUMLUCA"
+          },
+          {
+            "id": "9236",
+            "name": "MANAVGAT"
+          },
+          {
+            "id": "9237",
+            "name": "SERİK"
+          }
+        ]
+      },
+      {
+        "id": "508",
+        "name": "ARDAHAN",
+        "towns": [
+          {
+            "id": "9238",
+            "name": "ARDAHAN"
+          },
+          {
+            "id": "9239",
+            "name": "ÇILDIR"
+          },
+          {
+            "id": "9240",
+            "name": "DAMAL"
+          }
+        ]
+      },
+      {
+        "id": "539",
+        "name": "İSTANBUL",
+        "towns": [
+          {
+            "id": "9541",
+            "name": "İSTANBUL"
+          }
+        ]
+      }
+    ]
+  }
+]
