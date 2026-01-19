@@ -1,0 +1,51 @@
+an[
+    {
+        "id": "mosque_blue",
+        "name": "Mavi Cami",
+        "nameEn": "Blue Mosque",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_blue.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_blue.jpg"
+    },
+    {
+        "id": "mosque_night",
+        "name": "Gece Cami",
+        "nameEn": "Night Mosque",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_night.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_night.jpg"
+    },
+    {
+        "id": "kaaba",
+        "name": "Kabe",
+        "nameEn": "Kaaba",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/kaaba.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/kaaba.jpg"
+    },
+    {
+        "id": "medina",
+        "name": "Medine",
+        "nameEn": "Medina",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/medina.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/medina.jpg"
+    },
+    {
+        "id": "islamic_pattern",
+        "name": "İslami Desen",
+        "nameEn": "Islamic Pattern",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/islamic_pattern.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/islamic_pattern.jpg"
+    },
+    {
+        "id": "ramadan_lantern",
+        "name": "Ramazan Feneri",
+        "nameEn": "Ramadan Lantern",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/ramadan_lantern.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/ramadan_lantern.jpg"
+    },
+    {
+        "id": "crescent_moon",
+        "name": "Hilal",
+        "nameEn": "Crescent Moon",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/crescent_moon.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/crescent_moon.jpg"
+    }
+]
