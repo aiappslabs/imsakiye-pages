@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Regaip Kandili",
+        "date": "2026-01-15",
+        "hijri": "4 Recep 1447",
+        "icon": "mosque"
+    },
+    {
+        "name": "Miraç Kandili",
+        "date": "2026-02-06",
+        "hijri": "26 Recep 1447",
+        "icon": "star-and-crescent"
+    },
+    {
+        "name": "Berat Kandili",
+        "date": "2026-02-24",
+        "hijri": "14 Şaban 1447",
+        "icon": "moon"
+    },
+    {
+        "name": "Ramazan Başlangıcı",
+        "date": "2026-03-11",
+        "hijri": "1 Ramazan 1447",
+        "icon": "kaaba"
+    },
+    {
+        "name": "Kadir Gecesi",
+        "date": "2026-04-05",
+        "hijri": "26 Ramazan 1447",
+        "icon": "praying-hands"
+    },
+    {
+        "name": "Ramazan Bayramı",
+        "date": "2026-04-09",
+        "hijri": "1 Şevval 1447",
+        "icon": "gift"
+    },
+    {
+        "name": "Kurban Bayramı",
+        "date": "2026-06-16",
+        "hijri": "10 Zilhicce 1447",
+        "icon": "hand-holding-heart"
+    },
+    {
+        "name": "Hicri Yılbaşı",
+        "date": "2026-07-17",
+        "hijri": "1 Muharrem 1448",
+        "icon": "calendar-alt"
+    },
+    {
+        "name": "Aşure Günü",
+        "date": "2026-07-26",
+        "hijri": "10 Muharrem 1448",
+        "icon": "utensils"
+    },
+    {
+        "name": "Mevlid Kandili",
+        "date": "2026-09-24",
+        "hijri": "12 Rebiülevvel 1448",
+        "icon": "star"
+    }
+]

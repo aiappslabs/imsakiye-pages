@@ -1,0 +1,6577 @@
+[
+  {
+    "id": "2",
+    "name": "TÜRKİYE",
+    "cities": [
+      {
+        "id": "500",
+        "name": "ADANA",
+        "towns": [
+          {
+            "id": "9146",
+            "name": "ADANA",
+            "path": "/tr-TR/9146/adana-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9147",
+            "name": "ALADAĞ",
+            "path": "/tr-TR/9147/aladag-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9148",
+            "name": "CEYHAN",
+            "path": "/tr-TR/9148/ceyhan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9149",
+            "name": "FEKE",
+            "path": "/tr-TR/9149/feke-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9150",
+            "name": "İMAMOĞLU",
+            "path": "/tr-TR/9150/imamoglu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9151",
+            "name": "KARAISALI",
+            "path": "/tr-TR/9151/karaisali-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9152",
+            "name": "KARATAŞ",
+            "path": "/tr-TR/9152/karatas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9153",
+            "name": "KOZAN",
+            "path": "/tr-TR/9153/kozan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9154",
+            "name": "POZANTI",
+            "path": "/tr-TR/9154/pozanti-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9155",
+            "name": "SAİMBEYLİ",
+            "path": "/tr-TR/9155/saimbeyli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9156",
+            "name": "TUFANBEYLİ",
+            "path": "/tr-TR/9156/tufanbeyli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9157",
+            "name": "YUMURTALIK",
+            "path": "/tr-TR/9157/yumurtalik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "501",
+        "name": "ADIYAMAN",
+        "towns": [
+          {
+            "id": "9158",
+            "name": "ADIYAMAN",
+            "path": "/tr-TR/9158/adiyaman-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9159",
+            "name": "BESNİ",
+            "path": "/tr-TR/9159/besni-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9160",
+            "name": "ÇELİKHAN",
+            "path": "/tr-TR/9160/celikhan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9161",
+            "name": "GERGER",
+            "path": "/tr-TR/9161/gerger-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9162",
+            "name": "GÖLBAŞI",
+            "path": "/tr-TR/9162/golbasi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9163",
+            "name": "KAHTA",
+            "path": "/tr-TR/9163/kahta-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9164",
+            "name": "SAMSAT",
+            "path": "/tr-TR/9164/samsat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9165",
+            "name": "SİNCİK",
+            "path": "/tr-TR/9165/sincik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9166",
+            "name": "TUT",
+            "path": "/tr-TR/9166/tut-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "502",
+        "name": "AFYONKARAHİSAR",
+        "towns": [
+          {
+            "id": "9167",
+            "name": "AFYONKARAHİSAR",
+            "path": "/tr-TR/9167/afyonkarahisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9168",
+            "name": "BAŞMAKÇI",
+            "path": "/tr-TR/9168/basmakci-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9169",
+            "name": "BAYAT",
+            "path": "/tr-TR/9169/bayat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9170",
+            "name": "BOLVADİN",
+            "path": "/tr-TR/9170/bolvadin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9171",
+            "name": "ÇAY",
+            "path": "/tr-TR/9171/cay-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9172",
+            "name": "ÇOBANLAR",
+            "path": "/tr-TR/9172/cobanlar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9173",
+            "name": "DAZKIRI",
+            "path": "/tr-TR/9173/dazkiri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9174",
+            "name": "DİNAR",
+            "path": "/tr-TR/9174/dinar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9175",
+            "name": "EMİRDAĞ",
+            "path": "/tr-TR/9175/emirdag-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9176",
+            "name": "EVCİLER",
+            "path": "/tr-TR/9176/evciler-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9177",
+            "name": "HOCALAR",
+            "path": "/tr-TR/9177/hocalar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9178",
+            "name": "İHSANİYE",
+            "path": "/tr-TR/9178/ihsaniye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9179",
+            "name": "İSCEHİSAR",
+            "path": "/tr-TR/9179/iscehisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9180",
+            "name": "KIZILÖREN",
+            "path": "/tr-TR/9180/kiziloren-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9181",
+            "name": "SANDIKLI",
+            "path": "/tr-TR/9181/sandikli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9182",
+            "name": "SİNANPAŞA",
+            "path": "/tr-TR/9182/sinanpasa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9183",
+            "name": "ŞUHUT",
+            "path": "/tr-TR/9183/suhut-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9184",
+            "name": "SULTANDAĞI",
+            "path": "/tr-TR/9184/sultandagi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "503",
+        "name": "AĞRI",
+        "towns": [
+          {
+            "id": "9185",
+            "name": "AĞRI",
+            "path": "/tr-TR/9185/agri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9186",
+            "name": "DİYADİN",
+            "path": "/tr-TR/9186/diyadin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9187",
+            "name": "DOĞUBEYAZIT",
+            "path": "/tr-TR/9187/dogubeyazit-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9188",
+            "name": "ELEŞKİRT",
+            "path": "/tr-TR/9188/eleskirt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9189",
+            "name": "PATNOS",
+            "path": "/tr-TR/9189/patnos-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9190",
+            "name": "TAŞLIÇAY",
+            "path": "/tr-TR/9190/taslicay-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9191",
+            "name": "TUTAK",
+            "path": "/tr-TR/9191/tutak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "504",
+        "name": "AKSARAY",
+        "towns": [
+          {
+            "id": "9192",
+            "name": "AĞAÇÖREN",
+            "path": "/tr-TR/9192/agacoren-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9193",
+            "name": "AKSARAY",
+            "path": "/tr-TR/9193/aksaray-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9194",
+            "name": "ESKİL",
+            "path": "/tr-TR/9194/eskil-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9195",
+            "name": "GÜLAĞAÇ",
+            "path": "/tr-TR/9195/gulagac-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9196",
+            "name": "GÜZELYURT",
+            "path": "/tr-TR/9196/guzelyurt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17877",
+            "name": "ORTAKÖY",
+            "path": "/tr-TR/17877/ortakoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9197",
+            "name": "SARIYAHŞİ",
+            "path": "/tr-TR/9197/sariyahsi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "20069",
+            "name": "SULTANHANI",
+            "path": "/tr-TR/20069/sultanhani-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "505",
+        "name": "AMASYA",
+        "towns": [
+          {
+            "id": "9198",
+            "name": "AMASYA",
+            "path": "/tr-TR/9198/amasya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9199",
+            "name": "GÖYNÜCEK",
+            "path": "/tr-TR/9199/goynucek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9200",
+            "name": "GÜMÜŞHACIKÖY",
+            "path": "/tr-TR/9200/gumushacikoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9201",
+            "name": "HAMAMÖZÜ",
+            "path": "/tr-TR/9201/hamamozu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9202",
+            "name": "MERZİFON",
+            "path": "/tr-TR/9202/merzifon-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9203",
+            "name": "SULUOVA",
+            "path": "/tr-TR/9203/suluova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9204",
+            "name": "TAŞOVA",
+            "path": "/tr-TR/9204/tasova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "506",
+        "name": "ANKARA",
+        "towns": [
+          {
+            "id": "9205",
+            "name": "AKYURT",
+            "path": "/tr-TR/9205/akyurt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9206",
+            "name": "ANKARA",
+            "path": "/tr-TR/9206/ankara-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9207",
+            "name": "AYAŞ",
+            "path": "/tr-TR/9207/ayas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9208",
+            "name": "BALA",
+            "path": "/tr-TR/9208/bala-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9209",
+            "name": "BEYPAZARI",
+            "path": "/tr-TR/9209/beypazari-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9210",
+            "name": "ÇAMLIDERE",
+            "path": "/tr-TR/9210/camlidere-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9211",
+            "name": "CUBUK",
+            "path": "/tr-TR/9211/cubuk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9212",
+            "name": "ELMADAĞ",
+            "path": "/tr-TR/9212/elmadag-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9213",
+            "name": "EVREN",
+            "path": "/tr-TR/9213/evren-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9214",
+            "name": "GÜDÜL",
+            "path": "/tr-TR/9214/gudul-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9215",
+            "name": "HAYMANA",
+            "path": "/tr-TR/9215/haymana-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9217",
+            "name": "KAHRAMANKAZAN",
+            "path": "/tr-TR/9217/kahramankazan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9216",
+            "name": "KALECİK",
+            "path": "/tr-TR/9216/kalecik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9218",
+            "name": "KIZILCAHAMAM",
+            "path": "/tr-TR/9218/kizilcahamam-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9219",
+            "name": "NALLIHAN",
+            "path": "/tr-TR/9219/nallihan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9220",
+            "name": "POLATLI",
+            "path": "/tr-TR/9220/polatli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9221",
+            "name": "ŞEREFLİKOÇHİSAR",
+            "path": "/tr-TR/9221/sereflikochisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "507",
+        "name": "ANTALYA",
+        "towns": [
+          {
+            "id": "9222",
+            "name": "AKSEKİ",
+            "path": "/tr-TR/9222/akseki-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9223",
+            "name": "AKSU",
+            "path": "/tr-TR/9223/aksu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9224",
+            "name": "ALANYA",
+            "path": "/tr-TR/9224/alanya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9225",
+            "name": "ANTALYA",
+            "path": "/tr-TR/9225/antalya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9226",
+            "name": "DEMRE",
+            "path": "/tr-TR/9226/demre-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9227",
+            "name": "ELMALI",
+            "path": "/tr-TR/9227/elmali-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9228",
+            "name": "FİNİKE",
+            "path": "/tr-TR/9228/finike-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9229",
+            "name": "GAZİPAŞA",
+            "path": "/tr-TR/9229/gazipasa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9230",
+            "name": "GÜNDOĞMUŞ",
+            "path": "/tr-TR/9230/gundogmus-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9231",
+            "name": "İBRADI",
+            "path": "/tr-TR/9231/ibradi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9232",
+            "name": "KAŞ",
+            "path": "/tr-TR/9232/kas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9233",
+            "name": "KEMER",
+            "path": "/tr-TR/9233/kemer-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9234",
+            "name": "KORKUTELİ",
+            "path": "/tr-TR/9234/korkuteli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9235",
+            "name": "KUMLUCA",
+            "path": "/tr-TR/9235/kumluca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9236",
+            "name": "MANAVGAT",
+            "path": "/tr-TR/9236/manavgat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9237",
+            "name": "SERİK",
+            "path": "/tr-TR/9237/serik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "508",
+        "name": "ARDAHAN",
+        "towns": [
+          {
+            "id": "9238",
+            "name": "ARDAHAN",
+            "path": "/tr-TR/9238/ardahan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9239",
+            "name": "ÇILDIR",
+            "path": "/tr-TR/9239/cildir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9240",
+            "name": "DAMAL",
+            "path": "/tr-TR/9240/damal-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9241",
+            "name": "GÖLE",
+            "path": "/tr-TR/9241/gole-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9242",
+            "name": "HANAK",
+            "path": "/tr-TR/9242/hanak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9243",
+            "name": "POSOF",
+            "path": "/tr-TR/9243/posof-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "509",
+        "name": "ARTVİN",
+        "towns": [
+          {
+            "id": "9244",
+            "name": "ARDANUÇ",
+            "path": "/tr-TR/9244/ardanuc-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9245",
+            "name": "ARHAVİ",
+            "path": "/tr-TR/9245/arhavi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9246",
+            "name": "ARTVİN",
+            "path": "/tr-TR/9246/artvin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9247",
+            "name": "BORÇKA",
+            "path": "/tr-TR/9247/borcka-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9248",
+            "name": "HOPA",
+            "path": "/tr-TR/9248/hopa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "20070",
+            "name": "KEMALPAŞA",
+            "path": "/tr-TR/20070/kemalpasa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9249",
+            "name": "MURGUL",
+            "path": "/tr-TR/9249/murgul-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9250",
+            "name": "ŞAVŞAT",
+            "path": "/tr-TR/9250/savsat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9251",
+            "name": "YUSUFELİ",
+            "path": "/tr-TR/9251/yusufeli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "510",
+        "name": "AYDIN",
+        "towns": [
+          {
+            "id": "9252",
+            "name": "AYDIN",
+            "path": "/tr-TR/9252/aydin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9253",
+            "name": "BOZDOĞAN",
+            "path": "/tr-TR/9253/bozdogan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9254",
+            "name": "BUHARKENT",
+            "path": "/tr-TR/9254/buharkent-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9255",
+            "name": "ÇİNE",
+            "path": "/tr-TR/9255/cine-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9256",
+            "name": "DİDİM",
+            "path": "/tr-TR/9256/didim-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9257",
+            "name": "GERMENCİK",
+            "path": "/tr-TR/9257/germencik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9258",
+            "name": "İNCİRLİOVA",
+            "path": "/tr-TR/9258/incirliova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9259",
+            "name": "KARACASU",
+            "path": "/tr-TR/9259/karacasu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9260",
+            "name": "KARPUZLU",
+            "path": "/tr-TR/9260/karpuzlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9261",
+            "name": "KOÇARLI",
+            "path": "/tr-TR/9261/kocarli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9262",
+            "name": "KÖŞK",
+            "path": "/tr-TR/9262/kosk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9263",
+            "name": "KUŞADASI",
+            "path": "/tr-TR/9263/kusadasi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9264",
+            "name": "KUYUCAK",
+            "path": "/tr-TR/9264/kuyucak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9265",
+            "name": "NAZİLLİ",
+            "path": "/tr-TR/9265/nazilli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9266",
+            "name": "SÖKE",
+            "path": "/tr-TR/9266/soke-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9267",
+            "name": "SULTANHİSAR",
+            "path": "/tr-TR/9267/sultanhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9268",
+            "name": "YENİPAZAR (A)",
+            "path": "/tr-TR/9268/yenipazar-a-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "511",
+        "name": "BALIKESİR",
+        "towns": [
+          {
+            "id": "9269",
+            "name": "AYVALIK",
+            "path": "/tr-TR/9269/ayvalik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9270",
+            "name": "BALIKESİR",
+            "path": "/tr-TR/9270/balikesir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9271",
+            "name": "BALYA",
+            "path": "/tr-TR/9271/balya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17917",
+            "name": "BANDIRMA",
+            "path": "/tr-TR/17917/bandirma-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9272",
+            "name": "BİGADİÇ",
+            "path": "/tr-TR/9272/bigadic-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9273",
+            "name": "BURHANİYE",
+            "path": "/tr-TR/9273/burhaniye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9274",
+            "name": "DURSUNBEY",
+            "path": "/tr-TR/9274/dursunbey-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9275",
+            "name": "EDREMİT",
+            "path": "/tr-TR/9275/edremit-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17881",
+            "name": "ERDEK",
+            "path": "/tr-TR/17881/erdek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9276",
+            "name": "GÖMEÇ",
+            "path": "/tr-TR/9276/gomec-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9277",
+            "name": "GÖNEN",
+            "path": "/tr-TR/9277/gonen-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9278",
+            "name": "HAVRAN",
+            "path": "/tr-TR/9278/havran-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9279",
+            "name": "İVRİNDİ",
+            "path": "/tr-TR/9279/ivrindi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9280",
+            "name": "KEPSUT",
+            "path": "/tr-TR/9280/kepsut-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17918",
+            "name": "MANYAS",
+            "path": "/tr-TR/17918/manyas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9281",
+            "name": "MARMARA",
+            "path": "/tr-TR/9281/marmara-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9282",
+            "name": "SAVAŞTEPE",
+            "path": "/tr-TR/9282/savastepe-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9283",
+            "name": "SINDIRGI",
+            "path": "/tr-TR/9283/sindirgi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9284",
+            "name": "SUSURLUK",
+            "path": "/tr-TR/9284/susurluk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "512",
+        "name": "BARTIN",
+        "towns": [
+          {
+            "id": "9285",
+            "name": "BARTIN",
+            "path": "/tr-TR/9285/bartin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9286",
+            "name": "KURUCAŞİLE",
+            "path": "/tr-TR/9286/kurucasile-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9287",
+            "name": "ULUS",
+            "path": "/tr-TR/9287/ulus-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "513",
+        "name": "BATMAN",
+        "towns": [
+          {
+            "id": "9288",
+            "name": "BATMAN",
+            "path": "/tr-TR/9288/batman-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9289",
+            "name": "BEŞİRİ",
+            "path": "/tr-TR/9289/besiri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9290",
+            "name": "GERCÜŞ",
+            "path": "/tr-TR/9290/gercus-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9291",
+            "name": "HASANKEYF",
+            "path": "/tr-TR/9291/hasankeyf-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9292",
+            "name": "KOZLUK",
+            "path": "/tr-TR/9292/kozluk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9293",
+            "name": "SASON",
+            "path": "/tr-TR/9293/sason-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "514",
+        "name": "BAYBURT",
+        "towns": [
+          {
+            "id": "9294",
+            "name": "AYDINTEPE",
+            "path": "/tr-TR/9294/aydintepe-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9295",
+            "name": "BAYBURT",
+            "path": "/tr-TR/9295/bayburt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9296",
+            "name": "DEMİRÖZÜ",
+            "path": "/tr-TR/9296/demirozu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "515",
+        "name": "BİLECİK",
+        "towns": [
+          {
+            "id": "9297",
+            "name": "BİLECİK",
+            "path": "/tr-TR/9297/bilecik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9298",
+            "name": "BOZÜYÜK",
+            "path": "/tr-TR/9298/bozuyuk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9299",
+            "name": "GÖLPAZARI",
+            "path": "/tr-TR/9299/golpazari-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9300",
+            "name": "İNHİSAR",
+            "path": "/tr-TR/9300/inhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17895",
+            "name": "OSMANELİ",
+            "path": "/tr-TR/17895/osmaneli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17896",
+            "name": "PAZARYERİ",
+            "path": "/tr-TR/17896/pazaryeri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9301",
+            "name": "SÖĞÜT",
+            "path": "/tr-TR/9301/sogut-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9302",
+            "name": "YENİPAZAR",
+            "path": "/tr-TR/9302/yenipazar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "516",
+        "name": "BİNGÖL",
+        "towns": [
+          {
+            "id": "17889",
+            "name": "ADAKLI",
+            "path": "/tr-TR/17889/adakli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9303",
+            "name": "BİNGÖL",
+            "path": "/tr-TR/9303/bingol-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9304",
+            "name": "KARLIOVA",
+            "path": "/tr-TR/9304/karliova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9305",
+            "name": "KİGI",
+            "path": "/tr-TR/9305/kigi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9306",
+            "name": "SOLHAN",
+            "path": "/tr-TR/9306/solhan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9307",
+            "name": "YAYLADERE",
+            "path": "/tr-TR/9307/yayladere-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9308",
+            "name": "YEDİSU",
+            "path": "/tr-TR/9308/yedisu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "517",
+        "name": "BİTLİS",
+        "towns": [
+          {
+            "id": "9309",
+            "name": "ADİLCEVAZ",
+            "path": "/tr-TR/9309/adilcevaz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9310",
+            "name": "AHLAT",
+            "path": "/tr-TR/9310/ahlat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9311",
+            "name": "BİTLİS",
+            "path": "/tr-TR/9311/bitlis-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17887",
+            "name": "GÜROYMAK",
+            "path": "/tr-TR/17887/guroymak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9312",
+            "name": "HİZAN",
+            "path": "/tr-TR/9312/hizan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9313",
+            "name": "MUTKİ",
+            "path": "/tr-TR/9313/mutki-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9314",
+            "name": "TATVAN",
+            "path": "/tr-TR/9314/tatvan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "518",
+        "name": "BOLU",
+        "towns": [
+          {
+            "id": "9315",
+            "name": "BOLU",
+            "path": "/tr-TR/9315/bolu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9316",
+            "name": "DÖRTDİVAN",
+            "path": "/tr-TR/9316/dortdivan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9317",
+            "name": "GEREDE",
+            "path": "/tr-TR/9317/gerede-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9318",
+            "name": "GÖYNÜK",
+            "path": "/tr-TR/9318/goynuk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9319",
+            "name": "KIBRISCIK",
+            "path": "/tr-TR/9319/kibriscik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9320",
+            "name": "MENGEN",
+            "path": "/tr-TR/9320/mengen-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9321",
+            "name": "MUDURNU",
+            "path": "/tr-TR/9321/mudurnu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9322",
+            "name": "SEBEN",
+            "path": "/tr-TR/9322/seben-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9323",
+            "name": "YENİÇAĞA",
+            "path": "/tr-TR/9323/yenicaga-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "519",
+        "name": "BURDUR",
+        "towns": [
+          {
+            "id": "9324",
+            "name": "AĞLASUN",
+            "path": "/tr-TR/9324/aglasun-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9325",
+            "name": "ALTINYAYLA",
+            "path": "/tr-TR/9325/altinyayla-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9326",
+            "name": "BUCAK",
+            "path": "/tr-TR/9326/bucak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9327",
+            "name": "BURDUR",
+            "path": "/tr-TR/9327/burdur-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9328",
+            "name": "ÇAVDIR",
+            "path": "/tr-TR/9328/cavdir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9329",
+            "name": "ÇELTİKCİ",
+            "path": "/tr-TR/9329/celtikci-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9330",
+            "name": "GÖLHİSAR",
+            "path": "/tr-TR/9330/golhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9331",
+            "name": "KARAMANLI",
+            "path": "/tr-TR/9331/karamanli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9332",
+            "name": "KEMER (B)",
+            "path": "/tr-TR/9332/kemer-b-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9333",
+            "name": "TEFENNİ",
+            "path": "/tr-TR/9333/tefenni-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9334",
+            "name": "YEŞİLOVA",
+            "path": "/tr-TR/9334/yesilova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "520",
+        "name": "BURSA",
+        "towns": [
+          {
+            "id": "9335",
+            "name": "BURSA",
+            "path": "/tr-TR/9335/bursa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9336",
+            "name": "BÜYÜK ORHAN",
+            "path": "/tr-TR/9336/buyuk-orhan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9337",
+            "name": "GEMLİK",
+            "path": "/tr-TR/9337/gemlik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9338",
+            "name": "HARMANCIK",
+            "path": "/tr-TR/9338/harmancik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9339",
+            "name": "İNEGÖL",
+            "path": "/tr-TR/9339/inegol-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9340",
+            "name": "İZNİK",
+            "path": "/tr-TR/9340/iznik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9341",
+            "name": "KARACABEY",
+            "path": "/tr-TR/9341/karacabey-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9342",
+            "name": "KELES",
+            "path": "/tr-TR/9342/keles-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17893",
+            "name": "KESTEL",
+            "path": "/tr-TR/17893/kestel-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9343",
+            "name": "MUDANYA",
+            "path": "/tr-TR/9343/mudanya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9344",
+            "name": "MUSTAFA KEMALPAŞA",
+            "path": "/tr-TR/9344/mustafa-kemalpasa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17894",
+            "name": "ORHANELİ",
+            "path": "/tr-TR/17894/orhaneli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9345",
+            "name": "ORHANGAZİ",
+            "path": "/tr-TR/9345/orhangazi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9346",
+            "name": "YENİŞEHİR",
+            "path": "/tr-TR/9346/yenisehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "521",
+        "name": "ÇANAKKALE",
+        "towns": [
+          {
+            "id": "9347",
+            "name": "AYVACIK",
+            "path": "/tr-TR/9347/ayvacik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9348",
+            "name": "BAYRAMİÇ",
+            "path": "/tr-TR/9348/bayramic-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9349",
+            "name": "BİGA",
+            "path": "/tr-TR/9349/biga-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9350",
+            "name": "BOZCAADA",
+            "path": "/tr-TR/9350/bozcaada-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9351",
+            "name": "ÇAN",
+            "path": "/tr-TR/9351/can-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9352",
+            "name": "ÇANAKKALE",
+            "path": "/tr-TR/9352/canakkale-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17882",
+            "name": "EZİNE",
+            "path": "/tr-TR/17882/ezine-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9353",
+            "name": "GELİBOLU",
+            "path": "/tr-TR/9353/gelibolu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9354",
+            "name": "GÖKÇEADA",
+            "path": "/tr-TR/9354/gokceada-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9355",
+            "name": "LAPSEKİ",
+            "path": "/tr-TR/9355/lapseki-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9356",
+            "name": "YENİCE",
+            "path": "/tr-TR/9356/yenice-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "522",
+        "name": "ÇANKIRI",
+        "towns": [
+          {
+            "id": "9357",
+            "name": "ATKARACALAR",
+            "path": "/tr-TR/9357/atkaracalar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9358",
+            "name": "BAYRAMÖREN",
+            "path": "/tr-TR/9358/bayramoren-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9359",
+            "name": "ÇANKIRI",
+            "path": "/tr-TR/9359/cankiri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9360",
+            "name": "CERKEŞ",
+            "path": "/tr-TR/9360/cerkes-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9361",
+            "name": "ILGAZ",
+            "path": "/tr-TR/9361/ilgaz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9362",
+            "name": "KIZILIRMAK",
+            "path": "/tr-TR/9362/kizilirmak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9363",
+            "name": "KURŞUNLU",
+            "path": "/tr-TR/9363/kursunlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9364",
+            "name": "ORTA",
+            "path": "/tr-TR/9364/orta-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9365",
+            "name": "ŞABANÖZÜ",
+            "path": "/tr-TR/9365/sabanozu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9366",
+            "name": "YAPRAKLI",
+            "path": "/tr-TR/9366/yaprakli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "523",
+        "name": "ÇORUM",
+        "towns": [
+          {
+            "id": "9367",
+            "name": "ALACA",
+            "path": "/tr-TR/9367/alaca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9368",
+            "name": "BAYAT",
+            "path": "/tr-TR/9368/bayat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9369",
+            "name": "BOĞAZKALE",
+            "path": "/tr-TR/9369/bogazkale-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9370",
+            "name": "ÇORUM",
+            "path": "/tr-TR/9370/corum-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9371",
+            "name": "DODURGA",
+            "path": "/tr-TR/9371/dodurga-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9372",
+            "name": "İSKİLİP",
+            "path": "/tr-TR/9372/iskilip-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9373",
+            "name": "KARGI",
+            "path": "/tr-TR/9373/kargi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9374",
+            "name": "LAÇİN",
+            "path": "/tr-TR/9374/lacin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9375",
+            "name": "MECİTÖZÜ",
+            "path": "/tr-TR/9375/mecitozu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9376",
+            "name": "OĞUZLAR",
+            "path": "/tr-TR/9376/oguzlar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9377",
+            "name": "ORTAKÖY",
+            "path": "/tr-TR/9377/ortakoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9378",
+            "name": "OSMANCIK",
+            "path": "/tr-TR/9378/osmancik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9379",
+            "name": "SUNGURLU",
+            "path": "/tr-TR/9379/sungurlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9380",
+            "name": "UĞURLUDAĞ",
+            "path": "/tr-TR/9380/ugurludag-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "524",
+        "name": "DENİZLİ",
+        "towns": [
+          {
+            "id": "19020",
+            "name": "ACIPAYAM",
+            "path": "/tr-TR/19020/acipayam-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9382",
+            "name": "BABADAĞ",
+            "path": "/tr-TR/9382/babadag-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9383",
+            "name": "BAKLAN",
+            "path": "/tr-TR/9383/baklan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9384",
+            "name": "BEKİLLİ",
+            "path": "/tr-TR/9384/bekilli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9385",
+            "name": "BEYAĞAÇ",
+            "path": "/tr-TR/9385/beyagac-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9386",
+            "name": "BOZKURT",
+            "path": "/tr-TR/9386/bozkurt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9387",
+            "name": "BULDAN",
+            "path": "/tr-TR/9387/buldan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9388",
+            "name": "ÇAL",
+            "path": "/tr-TR/9388/cal-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9389",
+            "name": "ÇAMELİ",
+            "path": "/tr-TR/9389/cameli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9390",
+            "name": "ÇARDAK",
+            "path": "/tr-TR/9390/cardak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9391",
+            "name": "ÇİVRİL",
+            "path": "/tr-TR/9391/civril-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9392",
+            "name": "DENİZLİ",
+            "path": "/tr-TR/9392/denizli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9381",
+            "name": "GÜNEY",
+            "path": "/tr-TR/9381/guney-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9393",
+            "name": "HONAZ",
+            "path": "/tr-TR/9393/honaz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17899",
+            "name": "KALE",
+            "path": "/tr-TR/17899/kale-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9395",
+            "name": "SARAYKÖY",
+            "path": "/tr-TR/9395/saraykoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9396",
+            "name": "SERİNHİSAR",
+            "path": "/tr-TR/9396/serinhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17900",
+            "name": "TAVAS",
+            "path": "/tr-TR/17900/tavas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "525",
+        "name": "DİYARBAKIR",
+        "towns": [
+          {
+            "id": "9397",
+            "name": "BİSMİL",
+            "path": "/tr-TR/9397/bismil-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9398",
+            "name": "ÇERMİK",
+            "path": "/tr-TR/9398/cermik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9399",
+            "name": "ÇINAR",
+            "path": "/tr-TR/9399/cinar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9400",
+            "name": "ÇÜNGÜŞ",
+            "path": "/tr-TR/9400/cungus-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9401",
+            "name": "DİCLE",
+            "path": "/tr-TR/9401/dicle-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9402",
+            "name": "DİYARBAKIR",
+            "path": "/tr-TR/9402/diyarbakir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9403",
+            "name": "EĞİL",
+            "path": "/tr-TR/9403/egil-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9404",
+            "name": "ERGANİ",
+            "path": "/tr-TR/9404/ergani-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9405",
+            "name": "HANİ",
+            "path": "/tr-TR/9405/hani-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9406",
+            "name": "HAZRO",
+            "path": "/tr-TR/9406/hazro-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9407",
+            "name": "KOCAKÖY",
+            "path": "/tr-TR/9407/kocakoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9408",
+            "name": "KULP",
+            "path": "/tr-TR/9408/kulp-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9409",
+            "name": "LİCE",
+            "path": "/tr-TR/9409/lice-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9410",
+            "name": "SİLVAN",
+            "path": "/tr-TR/9410/silvan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "526",
+        "name": "DÜZCE",
+        "towns": [
+          {
+            "id": "9411",
+            "name": "AKÇAKOCA",
+            "path": "/tr-TR/9411/akcakoca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9412",
+            "name": "ÇİLİMLİ",
+            "path": "/tr-TR/9412/cilimli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9413",
+            "name": "CUMAYERİ",
+            "path": "/tr-TR/9413/cumayeri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9414",
+            "name": "DÜZCE",
+            "path": "/tr-TR/9414/duzce-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9415",
+            "name": "GÖLYAKA",
+            "path": "/tr-TR/9415/golyaka-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9416",
+            "name": "GÜMÜŞOVA",
+            "path": "/tr-TR/9416/gumusova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9417",
+            "name": "KAYNAŞLI",
+            "path": "/tr-TR/9417/kaynasli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9418",
+            "name": "YIĞILCA",
+            "path": "/tr-TR/9418/yigilca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "527",
+        "name": "EDİRNE",
+        "towns": [
+          {
+            "id": "9419",
+            "name": "EDİRNE",
+            "path": "/tr-TR/9419/edirne-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9420",
+            "name": "ENEZ",
+            "path": "/tr-TR/9420/enez-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9421",
+            "name": "HAVSA",
+            "path": "/tr-TR/9421/havsa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9422",
+            "name": "İPSALA",
+            "path": "/tr-TR/9422/ipsala-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9423",
+            "name": "KEŞAN",
+            "path": "/tr-TR/9423/kesan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9424",
+            "name": "LALAPAŞA",
+            "path": "/tr-TR/9424/lalapasa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9425",
+            "name": "MERİÇ",
+            "path": "/tr-TR/9425/meric-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9426",
+            "name": "SÜLOĞLU",
+            "path": "/tr-TR/9426/suloglu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9427",
+            "name": "UZUNKÖPRÜ",
+            "path": "/tr-TR/9427/uzunkopru-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "528",
+        "name": "ELAZIĞ",
+        "towns": [
+          {
+            "id": "9428",
+            "name": "AĞIN",
+            "path": "/tr-TR/9428/agin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9429",
+            "name": "ALACAKAYA",
+            "path": "/tr-TR/9429/alacakaya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9430",
+            "name": "ARICAK",
+            "path": "/tr-TR/9430/aricak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9431",
+            "name": "BASKİL",
+            "path": "/tr-TR/9431/baskil-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9432",
+            "name": "ELAZIĞ",
+            "path": "/tr-TR/9432/elazig-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9433",
+            "name": "KARAKOÇAN",
+            "path": "/tr-TR/9433/karakocan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9434",
+            "name": "KEBAN",
+            "path": "/tr-TR/9434/keban-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9435",
+            "name": "KOVANCILAR",
+            "path": "/tr-TR/9435/kovancilar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9436",
+            "name": "MADEN",
+            "path": "/tr-TR/9436/maden-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9437",
+            "name": "PALU",
+            "path": "/tr-TR/9437/palu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9438",
+            "name": "SİVRİCE",
+            "path": "/tr-TR/9438/sivrice-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "529",
+        "name": "ERZİNCAN",
+        "towns": [
+          {
+            "id": "9439",
+            "name": "ÇAYIRLI",
+            "path": "/tr-TR/9439/cayirli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9440",
+            "name": "ERZİNCAN",
+            "path": "/tr-TR/9440/erzincan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9441",
+            "name": "İLİÇ",
+            "path": "/tr-TR/9441/ilic-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9442",
+            "name": "KEMAH",
+            "path": "/tr-TR/9442/kemah-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9443",
+            "name": "KEMALİYE",
+            "path": "/tr-TR/9443/kemaliye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9444",
+            "name": "OTLUKBELİ",
+            "path": "/tr-TR/9444/otlukbeli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9445",
+            "name": "REFAHİYE",
+            "path": "/tr-TR/9445/refahiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9446",
+            "name": "TERCAN",
+            "path": "/tr-TR/9446/tercan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9447",
+            "name": "ÜZÜMLÜ",
+            "path": "/tr-TR/9447/uzumlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "530",
+        "name": "ERZURUM",
+        "towns": [
+          {
+            "id": "9448",
+            "name": "AŞKALE",
+            "path": "/tr-TR/9448/askale-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9449",
+            "name": "AZİZİYE",
+            "path": "/tr-TR/9449/aziziye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9450",
+            "name": "ÇAT",
+            "path": "/tr-TR/9450/cat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9451",
+            "name": "ERZURUM",
+            "path": "/tr-TR/9451/erzurum-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9452",
+            "name": "HINIS",
+            "path": "/tr-TR/9452/hinis-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9453",
+            "name": "HORASAN",
+            "path": "/tr-TR/9453/horasan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9454",
+            "name": "İSPİR",
+            "path": "/tr-TR/9454/ispir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9455",
+            "name": "KARAÇOBAN",
+            "path": "/tr-TR/9455/karacoban-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9456",
+            "name": "KARAYAZI",
+            "path": "/tr-TR/9456/karayazi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9457",
+            "name": "KÖPRÜKÖY",
+            "path": "/tr-TR/9457/koprukoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9458",
+            "name": "NARMAN",
+            "path": "/tr-TR/9458/narman-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9459",
+            "name": "OLTU",
+            "path": "/tr-TR/9459/oltu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9460",
+            "name": "OLUR",
+            "path": "/tr-TR/9460/olur-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9461",
+            "name": "PASİNLER",
+            "path": "/tr-TR/9461/pasinler-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9462",
+            "name": "PAZARYOLU",
+            "path": "/tr-TR/9462/pazaryolu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9463",
+            "name": "ŞENKAYA",
+            "path": "/tr-TR/9463/senkaya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9464",
+            "name": "TEKMAN",
+            "path": "/tr-TR/9464/tekman-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9465",
+            "name": "TORTUM",
+            "path": "/tr-TR/9465/tortum-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9466",
+            "name": "UZUNDERE",
+            "path": "/tr-TR/9466/uzundere-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "531",
+        "name": "ESKİŞEHİR",
+        "towns": [
+          {
+            "id": "9467",
+            "name": "ALPU",
+            "path": "/tr-TR/9467/alpu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9468",
+            "name": "BEYLİKOVA",
+            "path": "/tr-TR/9468/beylikova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9469",
+            "name": "ÇİFTELER",
+            "path": "/tr-TR/9469/cifteler-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9470",
+            "name": "ESKİŞEHİR",
+            "path": "/tr-TR/9470/eskisehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9471",
+            "name": "GÜNYÜZÜ",
+            "path": "/tr-TR/9471/gunyuzu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9472",
+            "name": "HAN",
+            "path": "/tr-TR/9472/han-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9473",
+            "name": "İNÖNÜ",
+            "path": "/tr-TR/9473/inonu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9474",
+            "name": "MAHMUDİYE",
+            "path": "/tr-TR/9474/mahmudiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "33292",
+            "name": "MİHALGAZİ",
+            "path": "/tr-TR/33292/mihalgazi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9475",
+            "name": "MİHALIÇÇIK",
+            "path": "/tr-TR/9475/mihaliccik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17919",
+            "name": "SARICAKAYA",
+            "path": "/tr-TR/17919/saricakaya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9476",
+            "name": "SEYİTGAZİ",
+            "path": "/tr-TR/9476/seyitgazi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9477",
+            "name": "SİVRİHİSAR",
+            "path": "/tr-TR/9477/sivrihisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "532",
+        "name": "GAZİANTEP",
+        "towns": [
+          {
+            "id": "9478",
+            "name": "ARABAN",
+            "path": "/tr-TR/9478/araban-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9479",
+            "name": "GAZİANTEP",
+            "path": "/tr-TR/9479/gaziantep-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9480",
+            "name": "İSLAHİYE",
+            "path": "/tr-TR/9480/islahiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9481",
+            "name": "KARKAMIŞ",
+            "path": "/tr-TR/9481/karkamis-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9482",
+            "name": "NİZİP",
+            "path": "/tr-TR/9482/nizip-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9483",
+            "name": "NURDAĞI",
+            "path": "/tr-TR/9483/nurdagi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9484",
+            "name": "OĞUZELİ",
+            "path": "/tr-TR/9484/oguzeli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9485",
+            "name": "YAVUZELİ",
+            "path": "/tr-TR/9485/yavuzeli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "533",
+        "name": "GİRESUN",
+        "towns": [
+          {
+            "id": "9486",
+            "name": "ALUCRA",
+            "path": "/tr-TR/9486/alucra-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9487",
+            "name": "BULANCAK",
+            "path": "/tr-TR/9487/bulancak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9488",
+            "name": "ÇAMOLUK",
+            "path": "/tr-TR/9488/camoluk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9489",
+            "name": "ÇANAKÇI",
+            "path": "/tr-TR/9489/canakci-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9490",
+            "name": "DERELİ",
+            "path": "/tr-TR/9490/dereli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9491",
+            "name": "DOĞANKENT",
+            "path": "/tr-TR/9491/dogankent-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9492",
+            "name": "ESPİYE",
+            "path": "/tr-TR/9492/espiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9493",
+            "name": "EYNESİL",
+            "path": "/tr-TR/9493/eynesil-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9494",
+            "name": "GİRESUN",
+            "path": "/tr-TR/9494/giresun-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9495",
+            "name": "GÖRELE",
+            "path": "/tr-TR/9495/gorele-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9496",
+            "name": "GÜCE",
+            "path": "/tr-TR/9496/guce-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9497",
+            "name": "KEŞAP",
+            "path": "/tr-TR/9497/kesap-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9498",
+            "name": "PİRAZİZ",
+            "path": "/tr-TR/9498/piraziz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "16706",
+            "name": "ŞEBİNKARAHİSAR",
+            "path": "/tr-TR/16706/sebinkarahisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9499",
+            "name": "TİREBOLU",
+            "path": "/tr-TR/9499/tirebolu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9500",
+            "name": "YAĞLIDERE",
+            "path": "/tr-TR/9500/yaglidere-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "534",
+        "name": "GÜMÜŞHANE",
+        "towns": [
+          {
+            "id": "9501",
+            "name": "GÜMÜŞHANE",
+            "path": "/tr-TR/9501/gumushane-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "16746",
+            "name": "KELKİT",
+            "path": "/tr-TR/16746/kelkit-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9502",
+            "name": "KÖSE",
+            "path": "/tr-TR/9502/kose-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9503",
+            "name": "KÜRTÜN",
+            "path": "/tr-TR/9503/kurtun-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9504",
+            "name": "ŞİRAN",
+            "path": "/tr-TR/9504/siran-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9505",
+            "name": "TORUL",
+            "path": "/tr-TR/9505/torul-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "535",
+        "name": "HAKKARİ",
+        "towns": [
+          {
+            "id": "9506",
+            "name": "ÇUKURCA",
+            "path": "/tr-TR/9506/cukurca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "20067",
+            "name": "DERECİK",
+            "path": "/tr-TR/20067/derecik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9507",
+            "name": "HAKKARİ",
+            "path": "/tr-TR/9507/hakkari-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9508",
+            "name": "ŞEMDİNLİ",
+            "path": "/tr-TR/9508/semdinli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9509",
+            "name": "YÜKSEKOVA",
+            "path": "/tr-TR/9509/yuksekova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "536",
+        "name": "HATAY",
+        "towns": [
+          {
+            "id": "9510",
+            "name": "ALTINÖZÜ",
+            "path": "/tr-TR/9510/altinozu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9515",
+            "name": "ARSUZ",
+            "path": "/tr-TR/9515/arsuz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9511",
+            "name": "BELEN",
+            "path": "/tr-TR/9511/belen-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9512",
+            "name": "DÖRTYOL",
+            "path": "/tr-TR/9512/dortyol-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9513",
+            "name": "ERZİN",
+            "path": "/tr-TR/9513/erzin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9514",
+            "name": "HASSA",
+            "path": "/tr-TR/9514/hassa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "20089",
+            "name": "HATAY",
+            "path": "/tr-TR/20089/hatay-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9516",
+            "name": "İSKENDERUN",
+            "path": "/tr-TR/9516/iskenderun-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9517",
+            "name": "KIRIKHAN",
+            "path": "/tr-TR/9517/kirikhan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9518",
+            "name": "KUMLU",
+            "path": "/tr-TR/9518/kumlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17810",
+            "name": "PAYAS",
+            "path": "/tr-TR/17810/payas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9519",
+            "name": "REYHANLI",
+            "path": "/tr-TR/9519/reyhanli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9520",
+            "name": "SAMANDAĞ",
+            "path": "/tr-TR/9520/samandag-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "16730",
+            "name": "YAYLADAĞI",
+            "path": "/tr-TR/16730/yayladagi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "537",
+        "name": "IĞDIR",
+        "towns": [
+          {
+            "id": "9521",
+            "name": "ARALIK",
+            "path": "/tr-TR/9521/aralik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9522",
+            "name": "IĞDIR",
+            "path": "/tr-TR/9522/igdir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9523",
+            "name": "KARAKOYUNLU",
+            "path": "/tr-TR/9523/karakoyunlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9524",
+            "name": "TUZLUCA",
+            "path": "/tr-TR/9524/tuzluca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "538",
+        "name": "ISPARTA",
+        "towns": [
+          {
+            "id": "9525",
+            "name": "AKSU (I)",
+            "path": "/tr-TR/9525/aksu-i-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17891",
+            "name": "ATABEY",
+            "path": "/tr-TR/17891/atabey-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9526",
+            "name": "EĞİRDİR",
+            "path": "/tr-TR/9526/egirdir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9527",
+            "name": "GELENDOST",
+            "path": "/tr-TR/9527/gelendost-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17892",
+            "name": "GÖNEN",
+            "path": "/tr-TR/17892/gonen-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9528",
+            "name": "ISPARTA",
+            "path": "/tr-TR/9528/isparta-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9529",
+            "name": "KEÇİBORLU",
+            "path": "/tr-TR/9529/keciborlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9530",
+            "name": "ŞARKİ KARAAĞAÇ",
+            "path": "/tr-TR/9530/sarki-karaagac-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17816",
+            "name": "SENİRKENT",
+            "path": "/tr-TR/17816/senirkent-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9531",
+            "name": "SÜTCÜLER",
+            "path": "/tr-TR/9531/sutculer-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9532",
+            "name": "ULUBORLU",
+            "path": "/tr-TR/9532/uluborlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9533",
+            "name": "YALVAÇ",
+            "path": "/tr-TR/9533/yalvac-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9534",
+            "name": "YENİSAR BADEMLİ",
+            "path": "/tr-TR/9534/yenisar-bademli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "539",
+        "name": "İSTANBUL",
+        "towns": [
+          {
+            "id": "9535",
+            "name": "ARNAVUTKOY",
+            "path": "/tr-TR/9535/arnavutkoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17865",
+            "name": "AVCILAR",
+            "path": "/tr-TR/17865/avcilar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17866",
+            "name": "BAŞAKŞEHİR",
+            "path": "/tr-TR/17866/basaksehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9536",
+            "name": "BEYLİKDÜZÜ",
+            "path": "/tr-TR/9536/beylikduzu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9537",
+            "name": "BÜYÜKÇEKMECE",
+            "path": "/tr-TR/9537/buyukcekmece-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9538",
+            "name": "ÇATALCA",
+            "path": "/tr-TR/9538/catalca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9539",
+            "name": "ÇEKMEKÖY",
+            "path": "/tr-TR/9539/cekmekoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9540",
+            "name": "ESENYURT",
+            "path": "/tr-TR/9540/esenyurt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9541",
+            "name": "İSTANBUL",
+            "path": "/tr-TR/9541/istanbul-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9542",
+            "name": "KARTAL",
+            "path": "/tr-TR/9542/kartal-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9543",
+            "name": "KÜÇÜKÇEKMECE",
+            "path": "/tr-TR/9543/kucukcekmece-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9544",
+            "name": "MALTEPE",
+            "path": "/tr-TR/9544/maltepe-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9545",
+            "name": "PENDİK",
+            "path": "/tr-TR/9545/pendik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9546",
+            "name": "SANCAKTEPE",
+            "path": "/tr-TR/9546/sancaktepe-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9547",
+            "name": "ŞİLE",
+            "path": "/tr-TR/9547/sile-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9548",
+            "name": "SİLİVRİ",
+            "path": "/tr-TR/9548/silivri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9549",
+            "name": "SULTANBEYLİ",
+            "path": "/tr-TR/9549/sultanbeyli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9550",
+            "name": "SULTANGAZİ",
+            "path": "/tr-TR/9550/sultangazi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9551",
+            "name": "TUZLA",
+            "path": "/tr-TR/9551/tuzla-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "540",
+        "name": "İZMİR",
+        "towns": [
+          {
+            "id": "9552",
+            "name": "ALİAĞA",
+            "path": "/tr-TR/9552/aliaga-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9553",
+            "name": "BAYINDIR",
+            "path": "/tr-TR/9553/bayindir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9554",
+            "name": "BERGAMA",
+            "path": "/tr-TR/9554/bergama-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9555",
+            "name": "BEYDAĞ",
+            "path": "/tr-TR/9555/beydag-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9556",
+            "name": "CEŞME",
+            "path": "/tr-TR/9556/cesme-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9557",
+            "name": "DİKİLİ",
+            "path": "/tr-TR/9557/dikili-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9558",
+            "name": "FOÇA",
+            "path": "/tr-TR/9558/foca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9559",
+            "name": "GÜZELBAHÇE",
+            "path": "/tr-TR/9559/guzelbahce-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9560",
+            "name": "İZMİR",
+            "path": "/tr-TR/9560/izmir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9561",
+            "name": "KARABURUN",
+            "path": "/tr-TR/9561/karaburun-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9562",
+            "name": "KEMALPAŞA",
+            "path": "/tr-TR/9562/kemalpasa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9563",
+            "name": "KINIK",
+            "path": "/tr-TR/9563/kinik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9564",
+            "name": "KİRAZ",
+            "path": "/tr-TR/9564/kiraz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17868",
+            "name": "MENDERES",
+            "path": "/tr-TR/17868/menderes-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17869",
+            "name": "MENEMEN",
+            "path": "/tr-TR/17869/menemen-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9565",
+            "name": "ÖDEMİŞ",
+            "path": "/tr-TR/9565/odemis-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9566",
+            "name": "SEFERIHİSAR",
+            "path": "/tr-TR/9566/seferihisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9567",
+            "name": "SELÇUK",
+            "path": "/tr-TR/9567/selcuk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9568",
+            "name": "TİRE",
+            "path": "/tr-TR/9568/tire-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9569",
+            "name": "TORBALI",
+            "path": "/tr-TR/9569/torbali-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9570",
+            "name": "URLA",
+            "path": "/tr-TR/9570/urla-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "541",
+        "name": "KAHRAMANMARAŞ",
+        "towns": [
+          {
+            "id": "9571",
+            "name": "AFŞİN",
+            "path": "/tr-TR/9571/afsin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9572",
+            "name": "ANDIRIN",
+            "path": "/tr-TR/9572/andirin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9573",
+            "name": "ÇAĞLAYANCERİT",
+            "path": "/tr-TR/9573/caglayancerit-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9574",
+            "name": "EKİNÖZÜ",
+            "path": "/tr-TR/9574/ekinozu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9575",
+            "name": "ELBİSTAN",
+            "path": "/tr-TR/9575/elbistan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9576",
+            "name": "GÖKSUN",
+            "path": "/tr-TR/9576/goksun-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9577",
+            "name": "KAHRAMANMARAŞ",
+            "path": "/tr-TR/9577/kahramanmaras-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9578",
+            "name": "NURHAK",
+            "path": "/tr-TR/9578/nurhak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9579",
+            "name": "PAZARCIK",
+            "path": "/tr-TR/9579/pazarcik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17908",
+            "name": "TÜRKOĞLU",
+            "path": "/tr-TR/17908/turkoglu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "542",
+        "name": "KARABÜK",
+        "towns": [
+          {
+            "id": "9580",
+            "name": "EFLANİ",
+            "path": "/tr-TR/9580/eflani-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17890",
+            "name": "ESKİPAZAR",
+            "path": "/tr-TR/17890/eskipazar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9581",
+            "name": "KARABÜK",
+            "path": "/tr-TR/9581/karabuk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9582",
+            "name": "OVACIK (K)",
+            "path": "/tr-TR/9582/ovacik-k-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9583",
+            "name": "YENİCE (K)",
+            "path": "/tr-TR/9583/yenice-k-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "543",
+        "name": "KARAMAN",
+        "towns": [
+          {
+            "id": "9584",
+            "name": "AYRANCI",
+            "path": "/tr-TR/9584/ayranci-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9585",
+            "name": "BAŞYAYLA",
+            "path": "/tr-TR/9585/basyayla-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9586",
+            "name": "ERMENEK",
+            "path": "/tr-TR/9586/ermenek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9587",
+            "name": "KARAMAN",
+            "path": "/tr-TR/9587/karaman-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9588",
+            "name": "KAZIMKARABEKİR",
+            "path": "/tr-TR/9588/kazimkarabekir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9589",
+            "name": "SARIVELİLER",
+            "path": "/tr-TR/9589/sariveliler-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "544",
+        "name": "KARS",
+        "towns": [
+          {
+            "id": "9590",
+            "name": "AKYAKA",
+            "path": "/tr-TR/9590/akyaka-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9591",
+            "name": "ARPAÇAY",
+            "path": "/tr-TR/9591/arpacay-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9592",
+            "name": "DİGOR",
+            "path": "/tr-TR/9592/digor-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9593",
+            "name": "KAĞIZMAN",
+            "path": "/tr-TR/9593/kagizman-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9594",
+            "name": "KARS",
+            "path": "/tr-TR/9594/kars-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9595",
+            "name": "SARIKAMIŞ",
+            "path": "/tr-TR/9595/sarikamis-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9596",
+            "name": "SELİM",
+            "path": "/tr-TR/9596/selim-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17880",
+            "name": "SUSUZ",
+            "path": "/tr-TR/17880/susuz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "545",
+        "name": "KASTAMONU",
+        "towns": [
+          {
+            "id": "9597",
+            "name": "ABANA",
+            "path": "/tr-TR/9597/abana-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9598",
+            "name": "AĞLI",
+            "path": "/tr-TR/9598/agli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9599",
+            "name": "ARAÇ",
+            "path": "/tr-TR/9599/arac-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9600",
+            "name": "AZDAVAY",
+            "path": "/tr-TR/9600/azdavay-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9601",
+            "name": "BOZKURT (K)",
+            "path": "/tr-TR/9601/bozkurt-k-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9602",
+            "name": "ÇATALZEYTİN",
+            "path": "/tr-TR/9602/catalzeytin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9603",
+            "name": "CİDE",
+            "path": "/tr-TR/9603/cide-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9604",
+            "name": "DADAY",
+            "path": "/tr-TR/9604/daday-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17885",
+            "name": "DEVREKANİ",
+            "path": "/tr-TR/17885/devrekani-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9605",
+            "name": "DOĞANYURT",
+            "path": "/tr-TR/9605/doganyurt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9606",
+            "name": "HANÖNÜ",
+            "path": "/tr-TR/9606/hanonu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9607",
+            "name": "İHSANGAZİ",
+            "path": "/tr-TR/9607/ihsangazi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9608",
+            "name": "İNEBOLU",
+            "path": "/tr-TR/9608/inebolu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9609",
+            "name": "KASTAMONU",
+            "path": "/tr-TR/9609/kastamonu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9610",
+            "name": "KÜRE",
+            "path": "/tr-TR/9610/kure-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9611",
+            "name": "PINARBAŞI (K)",
+            "path": "/tr-TR/9611/pinarbasi-k-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9612",
+            "name": "ŞENPAZAR",
+            "path": "/tr-TR/9612/senpazar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17886",
+            "name": "SEYDİLER",
+            "path": "/tr-TR/17886/seydiler-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9613",
+            "name": "TAŞKÖPRÜ",
+            "path": "/tr-TR/9613/taskopru-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9614",
+            "name": "TOSYA",
+            "path": "/tr-TR/9614/tosya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "546",
+        "name": "KAYSERİ",
+        "towns": [
+          {
+            "id": "9615",
+            "name": "AKKIŞLA",
+            "path": "/tr-TR/9615/akkisla-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9616",
+            "name": "BÜNYAN",
+            "path": "/tr-TR/9616/bunyan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9617",
+            "name": "DEVELİ",
+            "path": "/tr-TR/9617/develi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9618",
+            "name": "FELAHİYE",
+            "path": "/tr-TR/9618/felahiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9619",
+            "name": "İNCESU",
+            "path": "/tr-TR/9619/incesu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9620",
+            "name": "KAYSERİ",
+            "path": "/tr-TR/9620/kayseri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9621",
+            "name": "ÖZVATAN",
+            "path": "/tr-TR/9621/ozvatan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9622",
+            "name": "PINARBAŞI",
+            "path": "/tr-TR/9622/pinarbasi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9623",
+            "name": "SARIOĞLAN",
+            "path": "/tr-TR/9623/sarioglan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9624",
+            "name": "SARIZ",
+            "path": "/tr-TR/9624/sariz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9625",
+            "name": "TOMARZA",
+            "path": "/tr-TR/9625/tomarza-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9626",
+            "name": "YAHYALI",
+            "path": "/tr-TR/9626/yahyali-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9627",
+            "name": "YEŞİLHİSAR",
+            "path": "/tr-TR/9627/yesilhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "547",
+        "name": "KİLİS",
+        "towns": [
+          {
+            "id": "9628",
+            "name": "ELBEYLİ",
+            "path": "/tr-TR/9628/elbeyli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9629",
+            "name": "KİLİS",
+            "path": "/tr-TR/9629/kilis-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9630",
+            "name": "MUSABEYLİ",
+            "path": "/tr-TR/9630/musabeyli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17907",
+            "name": "POLATELİ",
+            "path": "/tr-TR/17907/polateli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "548",
+        "name": "KIRIKKALE",
+        "towns": [
+          {
+            "id": "9631",
+            "name": "BALISEYH",
+            "path": "/tr-TR/9631/baliseyh-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9632",
+            "name": "CELEBI",
+            "path": "/tr-TR/9632/celebi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9633",
+            "name": "DELICE",
+            "path": "/tr-TR/9633/delice-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9634",
+            "name": "KARAKECILI",
+            "path": "/tr-TR/9634/karakecili-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17897",
+            "name": "KESKİN",
+            "path": "/tr-TR/17897/keskin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9635",
+            "name": "KIRIKKALE",
+            "path": "/tr-TR/9635/kirikkale-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9636",
+            "name": "SULAKYURT",
+            "path": "/tr-TR/9636/sulakyurt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "549",
+        "name": "KIRKLARELİ",
+        "towns": [
+          {
+            "id": "17903",
+            "name": "BABAESKİ",
+            "path": "/tr-TR/17903/babaeski-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9637",
+            "name": "DEMIRKOY",
+            "path": "/tr-TR/9637/demirkoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9638",
+            "name": "KIRKLARELİ",
+            "path": "/tr-TR/9638/kirklareli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9639",
+            "name": "LULEBURGAZ",
+            "path": "/tr-TR/9639/luleburgaz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9640",
+            "name": "PEHLIVANKOY",
+            "path": "/tr-TR/9640/pehlivankoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9641",
+            "name": "PINARHISAR",
+            "path": "/tr-TR/9641/pinarhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9642",
+            "name": "VIZE",
+            "path": "/tr-TR/9642/vize-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "550",
+        "name": "KIRŞEHİR",
+        "towns": [
+          {
+            "id": "20039",
+            "name": "AKÇAKENT",
+            "path": "/tr-TR/20039/akcakent-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9643",
+            "name": "AKPINAR",
+            "path": "/tr-TR/9643/akpinar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9644",
+            "name": "CICEKDAGI",
+            "path": "/tr-TR/9644/cicekdagi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9645",
+            "name": "KAMAN",
+            "path": "/tr-TR/9645/kaman-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9646",
+            "name": "KIRŞEHİR",
+            "path": "/tr-TR/9646/kirsehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9647",
+            "name": "MUCUR",
+            "path": "/tr-TR/9647/mucur-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "551",
+        "name": "KOCAELİ",
+        "towns": [
+          {
+            "id": "9648",
+            "name": "ÇAYIROVA",
+            "path": "/tr-TR/9648/cayirova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9649",
+            "name": "DARICA",
+            "path": "/tr-TR/9649/darica-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9650",
+            "name": "DİLOVASI",
+            "path": "/tr-TR/9650/dilovasi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9651",
+            "name": "GEBZE",
+            "path": "/tr-TR/9651/gebze-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9652",
+            "name": "KANDIRA",
+            "path": "/tr-TR/9652/kandira-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9653",
+            "name": "KARAMÜRSEL",
+            "path": "/tr-TR/9653/karamursel-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17902",
+            "name": "KARTEPE",
+            "path": "/tr-TR/17902/kartepe-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9654",
+            "name": "KOCAELİ",
+            "path": "/tr-TR/9654/kocaeli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9655",
+            "name": "KÖRFEZ",
+            "path": "/tr-TR/9655/korfez-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "552",
+        "name": "KONYA",
+        "towns": [
+          {
+            "id": "9656",
+            "name": "AHIRLI",
+            "path": "/tr-TR/9656/ahirli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9657",
+            "name": "AKÖREN",
+            "path": "/tr-TR/9657/akoren-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9658",
+            "name": "AKŞEHİR",
+            "path": "/tr-TR/9658/aksehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9659",
+            "name": "ALTINEKİN",
+            "path": "/tr-TR/9659/altinekin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9660",
+            "name": "BEYŞEHİR",
+            "path": "/tr-TR/9660/beysehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9661",
+            "name": "BOZKIR",
+            "path": "/tr-TR/9661/bozkir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9662",
+            "name": "ÇELTİK",
+            "path": "/tr-TR/9662/celtik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9663",
+            "name": "CİHANBEYLİ",
+            "path": "/tr-TR/9663/cihanbeyli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9664",
+            "name": "ÇUMRA",
+            "path": "/tr-TR/9664/cumra-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9665",
+            "name": "DERBENT",
+            "path": "/tr-TR/9665/derbent-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9666",
+            "name": "DEREBUCAK",
+            "path": "/tr-TR/9666/derebucak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9667",
+            "name": "DOĞANHİSAR",
+            "path": "/tr-TR/9667/doganhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9668",
+            "name": "EMİRGAZİ",
+            "path": "/tr-TR/9668/emirgazi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9669",
+            "name": "EREĞLİ",
+            "path": "/tr-TR/9669/eregli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9670",
+            "name": "GÜNEYSINIR",
+            "path": "/tr-TR/9670/guneysinir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "16704",
+            "name": "HADİM",
+            "path": "/tr-TR/16704/hadim-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9671",
+            "name": "HALKAPINAR",
+            "path": "/tr-TR/9671/halkapinar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9672",
+            "name": "HÜYÜK",
+            "path": "/tr-TR/9672/huyuk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9673",
+            "name": "ILGIN",
+            "path": "/tr-TR/9673/ilgin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9674",
+            "name": "KADINHANI",
+            "path": "/tr-TR/9674/kadinhani-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9675",
+            "name": "KARAPINAR",
+            "path": "/tr-TR/9675/karapinar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17872",
+            "name": "KARATAY",
+            "path": "/tr-TR/17872/karatay-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9676",
+            "name": "KONYA",
+            "path": "/tr-TR/9676/konya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9677",
+            "name": "KULU",
+            "path": "/tr-TR/9677/kulu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17870",
+            "name": "MERAM",
+            "path": "/tr-TR/17870/meram-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17874",
+            "name": "SARAYÖNÜ",
+            "path": "/tr-TR/17874/sarayonu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17871",
+            "name": "SELÇUKLU",
+            "path": "/tr-TR/17871/selcuklu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9678",
+            "name": "SEYDİŞEHİR",
+            "path": "/tr-TR/9678/seydisehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17873",
+            "name": "TAŞKENT",
+            "path": "/tr-TR/17873/taskent-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9679",
+            "name": "TUZLUKÇU",
+            "path": "/tr-TR/9679/tuzlukcu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9680",
+            "name": "YALIHÜYÜK",
+            "path": "/tr-TR/9680/yalihuyuk-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9681",
+            "name": "YUNAK",
+            "path": "/tr-TR/9681/yunak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "553",
+        "name": "KÜTAHYA",
+        "towns": [
+          {
+            "id": "9682",
+            "name": "ALTINTAŞ",
+            "path": "/tr-TR/9682/altintas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9683",
+            "name": "ASLANAPA",
+            "path": "/tr-TR/9683/aslanapa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9684",
+            "name": "ÇAVDARHİSAR",
+            "path": "/tr-TR/9684/cavdarhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9685",
+            "name": "DOMANİÇ",
+            "path": "/tr-TR/9685/domanic-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17906",
+            "name": "DUMLUPINAR",
+            "path": "/tr-TR/17906/dumlupinar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9686",
+            "name": "EMET",
+            "path": "/tr-TR/9686/emet-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9687",
+            "name": "GEDİZ",
+            "path": "/tr-TR/9687/gediz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9688",
+            "name": "HİSARCIK",
+            "path": "/tr-TR/9688/hisarcik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9689",
+            "name": "KÜTAHYA",
+            "path": "/tr-TR/9689/kutahya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9690",
+            "name": "PAZARLAR",
+            "path": "/tr-TR/9690/pazarlar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9691",
+            "name": "ŞAPHANE",
+            "path": "/tr-TR/9691/saphane-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9692",
+            "name": "SİMAV",
+            "path": "/tr-TR/9692/simav-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9693",
+            "name": "TAVŞANLI",
+            "path": "/tr-TR/9693/tavsanli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "554",
+        "name": "MALATYA",
+        "towns": [
+          {
+            "id": "9694",
+            "name": "AKÇADAĞ",
+            "path": "/tr-TR/9694/akcadag-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9695",
+            "name": "ARAPGİR",
+            "path": "/tr-TR/9695/arapgir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9696",
+            "name": "ARGUVAN",
+            "path": "/tr-TR/9696/arguvan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9697",
+            "name": "DARENDE",
+            "path": "/tr-TR/9697/darende-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9698",
+            "name": "DOĞANŞEHİR",
+            "path": "/tr-TR/9698/dogansehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9699",
+            "name": "DOĞANYOL",
+            "path": "/tr-TR/9699/doganyol-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9700",
+            "name": "HEKİMHAN",
+            "path": "/tr-TR/9700/hekimhan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9701",
+            "name": "KALE (M)",
+            "path": "/tr-TR/9701/kale-m-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9702",
+            "name": "KULUNCAK",
+            "path": "/tr-TR/9702/kuluncak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9703",
+            "name": "MALATYA",
+            "path": "/tr-TR/9703/malatya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9704",
+            "name": "PÜTÜRGE",
+            "path": "/tr-TR/9704/puturge-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9705",
+            "name": "YAZIHAN",
+            "path": "/tr-TR/9705/yazihan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9706",
+            "name": "YEŞİLYURT",
+            "path": "/tr-TR/9706/yesilyurt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "555",
+        "name": "MANİSA",
+        "towns": [
+          {
+            "id": "9707",
+            "name": "AHMETLİ",
+            "path": "/tr-TR/9707/ahmetli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9708",
+            "name": "AKHİSAR",
+            "path": "/tr-TR/9708/akhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9709",
+            "name": "ALAŞEHİR",
+            "path": "/tr-TR/9709/alasehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9710",
+            "name": "DEMİRCİ",
+            "path": "/tr-TR/9710/demirci-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9711",
+            "name": "GÖLMARMARA",
+            "path": "/tr-TR/9711/golmarmara-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9712",
+            "name": "GÖRDES",
+            "path": "/tr-TR/9712/gordes-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9713",
+            "name": "KIRKAĞAÇ",
+            "path": "/tr-TR/9713/kirkagac-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9714",
+            "name": "KÖPRÜBAŞI",
+            "path": "/tr-TR/9714/koprubasi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9715",
+            "name": "KULA",
+            "path": "/tr-TR/9715/kula-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9716",
+            "name": "MANİSA",
+            "path": "/tr-TR/9716/manisa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9717",
+            "name": "SALİHLİ",
+            "path": "/tr-TR/9717/salihli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9718",
+            "name": "SARIGÖL",
+            "path": "/tr-TR/9718/sarigol-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9719",
+            "name": "SARUHANLI",
+            "path": "/tr-TR/9719/saruhanli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9720",
+            "name": "SELENDİ",
+            "path": "/tr-TR/9720/selendi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9721",
+            "name": "SOMA",
+            "path": "/tr-TR/9721/soma-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9722",
+            "name": "TURGUTLU",
+            "path": "/tr-TR/9722/turgutlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "556",
+        "name": "MARDİN",
+        "towns": [
+          {
+            "id": "9723",
+            "name": "DARGECİT",
+            "path": "/tr-TR/9723/dargecit-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9724",
+            "name": "DERİK",
+            "path": "/tr-TR/9724/derik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9725",
+            "name": "KIZILTEPE",
+            "path": "/tr-TR/9725/kiziltepe-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9726",
+            "name": "MARDİN",
+            "path": "/tr-TR/9726/mardin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9727",
+            "name": "MAZIDAĞI",
+            "path": "/tr-TR/9727/mazidagi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9728",
+            "name": "MİDYAT",
+            "path": "/tr-TR/9728/midyat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9729",
+            "name": "NUSAYBİN",
+            "path": "/tr-TR/9729/nusaybin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9730",
+            "name": "ÖMERLİ",
+            "path": "/tr-TR/9730/omerli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17901",
+            "name": "SAVUR",
+            "path": "/tr-TR/17901/savur-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "557",
+        "name": "MERSİN",
+        "towns": [
+          {
+            "id": "9731",
+            "name": "ANAMUR",
+            "path": "/tr-TR/9731/anamur-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9732",
+            "name": "AYDINCIK",
+            "path": "/tr-TR/9732/aydincik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9733",
+            "name": "BOZYAZI",
+            "path": "/tr-TR/9733/bozyazi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9734",
+            "name": "ÇAMLIYAYLA",
+            "path": "/tr-TR/9734/camliyayla-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9735",
+            "name": "ERDEMLİ",
+            "path": "/tr-TR/9735/erdemli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9736",
+            "name": "GÜLNAR",
+            "path": "/tr-TR/9736/gulnar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9737",
+            "name": "MERSİN",
+            "path": "/tr-TR/9737/mersin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9738",
+            "name": "MUT",
+            "path": "/tr-TR/9738/mut-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9739",
+            "name": "SİLİFKE",
+            "path": "/tr-TR/9739/silifke-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9740",
+            "name": "TARSUS",
+            "path": "/tr-TR/9740/tarsus-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "558",
+        "name": "MUĞLA",
+        "towns": [
+          {
+            "id": "9741",
+            "name": "BODRUM",
+            "path": "/tr-TR/9741/bodrum-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9742",
+            "name": "DALAMAN",
+            "path": "/tr-TR/9742/dalaman-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9743",
+            "name": "DATÇA",
+            "path": "/tr-TR/9743/datca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9744",
+            "name": "FETHİYE",
+            "path": "/tr-TR/9744/fethiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9745",
+            "name": "KÖYCEĞİZ",
+            "path": "/tr-TR/9745/koycegiz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17883",
+            "name": "MARMARİS",
+            "path": "/tr-TR/17883/marmaris-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9746",
+            "name": "MİLAS",
+            "path": "/tr-TR/9746/milas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9747",
+            "name": "MUĞLA",
+            "path": "/tr-TR/9747/mugla-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9748",
+            "name": "ORTACA",
+            "path": "/tr-TR/9748/ortaca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17884",
+            "name": "SEYDİKEMER",
+            "path": "/tr-TR/17884/seydikemer-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9749",
+            "name": "ULA",
+            "path": "/tr-TR/9749/ula-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9750",
+            "name": "YATAĞAN",
+            "path": "/tr-TR/9750/yatagan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "559",
+        "name": "MUŞ",
+        "towns": [
+          {
+            "id": "9751",
+            "name": "BULANIK",
+            "path": "/tr-TR/9751/bulanik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9752",
+            "name": "HASKÖY",
+            "path": "/tr-TR/9752/haskoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9753",
+            "name": "KORKUT",
+            "path": "/tr-TR/9753/korkut-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9754",
+            "name": "MALAZGİRT",
+            "path": "/tr-TR/9754/malazgirt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9755",
+            "name": "MUŞ",
+            "path": "/tr-TR/9755/mus-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9756",
+            "name": "VARTO",
+            "path": "/tr-TR/9756/varto-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "560",
+        "name": "NEVŞEHİR",
+        "towns": [
+          {
+            "id": "9757",
+            "name": "ACIGÖL",
+            "path": "/tr-TR/9757/acigol-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17878",
+            "name": "AVANOS",
+            "path": "/tr-TR/17878/avanos-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9758",
+            "name": "HACIBEKTAŞ",
+            "path": "/tr-TR/9758/hacibektas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9759",
+            "name": "KOZAKLI",
+            "path": "/tr-TR/9759/kozakli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9760",
+            "name": "NEVŞEHİR",
+            "path": "/tr-TR/9760/nevsehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9761",
+            "name": "ÜRGÜP",
+            "path": "/tr-TR/9761/urgup-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "561",
+        "name": "NİĞDE",
+        "towns": [
+          {
+            "id": "9762",
+            "name": "ALTUNHİSAR",
+            "path": "/tr-TR/9762/altunhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9763",
+            "name": "BOR",
+            "path": "/tr-TR/9763/bor-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9764",
+            "name": "ÇAMARDI",
+            "path": "/tr-TR/9764/camardi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9765",
+            "name": "ÇİFTLİK",
+            "path": "/tr-TR/9765/ciftlik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9766",
+            "name": "NİĞDE",
+            "path": "/tr-TR/9766/nigde-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9767",
+            "name": "ULUKIŞLA",
+            "path": "/tr-TR/9767/ulukisla-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "562",
+        "name": "ORDU",
+        "towns": [
+          {
+            "id": "9768",
+            "name": "AKKUŞ",
+            "path": "/tr-TR/9768/akkus-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9769",
+            "name": "AYBASTI",
+            "path": "/tr-TR/9769/aybasti-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9770",
+            "name": "ÇAMAŞ",
+            "path": "/tr-TR/9770/camas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9771",
+            "name": "ÇATALPINAR",
+            "path": "/tr-TR/9771/catalpinar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9772",
+            "name": "ÇAYBAŞI",
+            "path": "/tr-TR/9772/caybasi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9773",
+            "name": "FATSA",
+            "path": "/tr-TR/9773/fatsa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9774",
+            "name": "GÖLKÖY",
+            "path": "/tr-TR/9774/golkoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9775",
+            "name": "GÜLYALI",
+            "path": "/tr-TR/9775/gulyali-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9776",
+            "name": "GÜRGENTEPE",
+            "path": "/tr-TR/9776/gurgentepe-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9777",
+            "name": "İKİZCE",
+            "path": "/tr-TR/9777/ikizce-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9778",
+            "name": "KABATAŞ",
+            "path": "/tr-TR/9778/kabatas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9779",
+            "name": "KORGAN",
+            "path": "/tr-TR/9779/korgan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9780",
+            "name": "KUMRU",
+            "path": "/tr-TR/9780/kumru-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9781",
+            "name": "MESUDİYE",
+            "path": "/tr-TR/9781/mesudiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9782",
+            "name": "ORDU",
+            "path": "/tr-TR/9782/ordu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9783",
+            "name": "ÜNYE",
+            "path": "/tr-TR/9783/unye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "563",
+        "name": "OSMANİYE",
+        "towns": [
+          {
+            "id": "9784",
+            "name": "BAHÇE",
+            "path": "/tr-TR/9784/bahce-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9785",
+            "name": "DÜZİÇİ",
+            "path": "/tr-TR/9785/duzici-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9786",
+            "name": "HASANBEYLİ",
+            "path": "/tr-TR/9786/hasanbeyli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9787",
+            "name": "KADİRLİ",
+            "path": "/tr-TR/9787/kadirli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9788",
+            "name": "OSMANİYE",
+            "path": "/tr-TR/9788/osmaniye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9789",
+            "name": "SUMBAS",
+            "path": "/tr-TR/9789/sumbas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9790",
+            "name": "TOPRAKKALE",
+            "path": "/tr-TR/9790/toprakkale-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "564",
+        "name": "RİZE",
+        "towns": [
+          {
+            "id": "9791",
+            "name": "ARDEŞEN",
+            "path": "/tr-TR/9791/ardesen-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9792",
+            "name": "ÇAMLIHEMŞİN",
+            "path": "/tr-TR/9792/camlihemsin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9793",
+            "name": "ÇAYELİ",
+            "path": "/tr-TR/9793/cayeli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9794",
+            "name": "FINDIKLI",
+            "path": "/tr-TR/9794/findikli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9795",
+            "name": "HEMŞİN",
+            "path": "/tr-TR/9795/hemsin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9796",
+            "name": "İKİZDERE",
+            "path": "/tr-TR/9796/ikizdere-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9797",
+            "name": "İYİDERE",
+            "path": "/tr-TR/9797/iyidere-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9798",
+            "name": "PAZAR",
+            "path": "/tr-TR/9798/pazar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9799",
+            "name": "RİZE",
+            "path": "/tr-TR/9799/rize-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "565",
+        "name": "SAKARYA",
+        "towns": [
+          {
+            "id": "9800",
+            "name": "AKYAZI",
+            "path": "/tr-TR/9800/akyazi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9801",
+            "name": "GEYVE",
+            "path": "/tr-TR/9801/geyve-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9802",
+            "name": "HENDEK",
+            "path": "/tr-TR/9802/hendek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9803",
+            "name": "KARASU",
+            "path": "/tr-TR/9803/karasu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9804",
+            "name": "KAYNARCA",
+            "path": "/tr-TR/9804/kaynarca-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9805",
+            "name": "KOCAALİ",
+            "path": "/tr-TR/9805/kocaali-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9806",
+            "name": "PAMUKOVA",
+            "path": "/tr-TR/9806/pamukova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9807",
+            "name": "SAKARYA",
+            "path": "/tr-TR/9807/sakarya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9808",
+            "name": "TARAKLI",
+            "path": "/tr-TR/9808/tarakli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "566",
+        "name": "SAMSUN",
+        "towns": [
+          {
+            "id": "9809",
+            "name": "19 MAYIS",
+            "path": "/tr-TR/9809/19-mayis-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9810",
+            "name": "ALAÇAM",
+            "path": "/tr-TR/9810/alacam-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9811",
+            "name": "ASARCIK",
+            "path": "/tr-TR/9811/asarcik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17911",
+            "name": "ATAKUM",
+            "path": "/tr-TR/17911/atakum-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9812",
+            "name": "AYVACIK (S)",
+            "path": "/tr-TR/9812/ayvacik-s-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9813",
+            "name": "BAFRA",
+            "path": "/tr-TR/9813/bafra-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9814",
+            "name": "ÇARŞAMBA",
+            "path": "/tr-TR/9814/carsamba-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9815",
+            "name": "HAVZA",
+            "path": "/tr-TR/9815/havza-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9816",
+            "name": "KAVAK",
+            "path": "/tr-TR/9816/kavak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9817",
+            "name": "LADİK",
+            "path": "/tr-TR/9817/ladik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9818",
+            "name": "SALIPAZARI",
+            "path": "/tr-TR/9818/salipazari-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9819",
+            "name": "SAMSUN",
+            "path": "/tr-TR/9819/samsun-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9820",
+            "name": "TEKKEKÖY",
+            "path": "/tr-TR/9820/tekkekoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9821",
+            "name": "TERME",
+            "path": "/tr-TR/9821/terme-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9822",
+            "name": "VEZİRKÖPRÜ",
+            "path": "/tr-TR/9822/vezirkopru-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9823",
+            "name": "YAKAKENT",
+            "path": "/tr-TR/9823/yakakent-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "567",
+        "name": "ŞANLIURFA",
+        "towns": [
+          {
+            "id": "9824",
+            "name": "AKÇAKALE",
+            "path": "/tr-TR/9824/akcakale-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9825",
+            "name": "BİRECİK",
+            "path": "/tr-TR/9825/birecik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9826",
+            "name": "BOZOVA",
+            "path": "/tr-TR/9826/bozova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9827",
+            "name": "CEYLANPINAR",
+            "path": "/tr-TR/9827/ceylanpinar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9828",
+            "name": "HALFETİ",
+            "path": "/tr-TR/9828/halfeti-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9829",
+            "name": "HARRAN",
+            "path": "/tr-TR/9829/harran-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9830",
+            "name": "HİLVAN",
+            "path": "/tr-TR/9830/hilvan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9831",
+            "name": "ŞANLIURFA",
+            "path": "/tr-TR/9831/sanliurfa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9832",
+            "name": "SİVEREK",
+            "path": "/tr-TR/9832/siverek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9833",
+            "name": "SURUÇ",
+            "path": "/tr-TR/9833/suruc-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9834",
+            "name": "VİRANŞEHİR",
+            "path": "/tr-TR/9834/viransehir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "568",
+        "name": "SİİRT",
+        "towns": [
+          {
+            "id": "9835",
+            "name": "BAYKAN",
+            "path": "/tr-TR/9835/baykan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9836",
+            "name": "ERUH",
+            "path": "/tr-TR/9836/eruh-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9837",
+            "name": "KURTALAN",
+            "path": "/tr-TR/9837/kurtalan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9838",
+            "name": "PERVARİ",
+            "path": "/tr-TR/9838/pervari-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9839",
+            "name": "SİİRT",
+            "path": "/tr-TR/9839/siirt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17888",
+            "name": "ŞIRVAN",
+            "path": "/tr-TR/17888/sirvan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "569",
+        "name": "SİNOP",
+        "towns": [
+          {
+            "id": "9840",
+            "name": "AYANCIK",
+            "path": "/tr-TR/9840/ayancik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9841",
+            "name": "BOYABAT",
+            "path": "/tr-TR/9841/boyabat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9842",
+            "name": "DİKMEN",
+            "path": "/tr-TR/9842/dikmen-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9843",
+            "name": "DURAĞAN",
+            "path": "/tr-TR/9843/duragan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9844",
+            "name": "ERFELEK",
+            "path": "/tr-TR/9844/erfelek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9845",
+            "name": "GERZE",
+            "path": "/tr-TR/9845/gerze-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9846",
+            "name": "SARAYDÜZÜ",
+            "path": "/tr-TR/9846/sarayduzu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9847",
+            "name": "SİNOP",
+            "path": "/tr-TR/9847/sinop-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9848",
+            "name": "TÜRKELİ",
+            "path": "/tr-TR/9848/turkeli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "570",
+        "name": "ŞIRNAK",
+        "towns": [
+          {
+            "id": "9849",
+            "name": "BEYTÜŞŞEBAP",
+            "path": "/tr-TR/9849/beytussebap-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9850",
+            "name": "CİZRE",
+            "path": "/tr-TR/9850/cizre-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9851",
+            "name": "GÜÇLÜKONAK",
+            "path": "/tr-TR/9851/guclukonak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9852",
+            "name": "İDİL",
+            "path": "/tr-TR/9852/idil-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9853",
+            "name": "SİLOPİ",
+            "path": "/tr-TR/9853/silopi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9854",
+            "name": "ŞIRNAK",
+            "path": "/tr-TR/9854/sirnak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9855",
+            "name": "ULUDERE",
+            "path": "/tr-TR/9855/uludere-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "571",
+        "name": "SİVAS",
+        "towns": [
+          {
+            "id": "9856",
+            "name": "AKINCILAR",
+            "path": "/tr-TR/9856/akincilar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9857",
+            "name": "ALTINYAYLA(S)",
+            "path": "/tr-TR/9857/altinyaylas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9858",
+            "name": "DİVRİĞİ",
+            "path": "/tr-TR/9858/divrigi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9859",
+            "name": "DOĞANŞAR",
+            "path": "/tr-TR/9859/dogansar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9860",
+            "name": "GEMEREK",
+            "path": "/tr-TR/9860/gemerek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9861",
+            "name": "GÖLOVA",
+            "path": "/tr-TR/9861/golova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9862",
+            "name": "GÜRÜN",
+            "path": "/tr-TR/9862/gurun-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9863",
+            "name": "HAFİK",
+            "path": "/tr-TR/9863/hafik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9864",
+            "name": "İMRANLI",
+            "path": "/tr-TR/9864/imranli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9865",
+            "name": "KANGAL",
+            "path": "/tr-TR/9865/kangal-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9866",
+            "name": "KOYULHİSAR",
+            "path": "/tr-TR/9866/koyulhisar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9867",
+            "name": "ŞARKIŞLA",
+            "path": "/tr-TR/9867/sarkisla-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9868",
+            "name": "SİVAS",
+            "path": "/tr-TR/9868/sivas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9869",
+            "name": "SUŞEHRİ",
+            "path": "/tr-TR/9869/susehri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17920",
+            "name": "ULAŞ",
+            "path": "/tr-TR/17920/ulas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9870",
+            "name": "YILDIZELİ",
+            "path": "/tr-TR/9870/yildizeli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9871",
+            "name": "ZARA",
+            "path": "/tr-TR/9871/zara-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "572",
+        "name": "TEKİRDAĞ",
+        "towns": [
+          {
+            "id": "9872",
+            "name": "ÇERKEZKÖY",
+            "path": "/tr-TR/9872/cerkezkoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9873",
+            "name": "ÇORLU",
+            "path": "/tr-TR/9873/corlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17904",
+            "name": "ERGENE",
+            "path": "/tr-TR/17904/ergene-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9874",
+            "name": "HAYRABOLU",
+            "path": "/tr-TR/9874/hayrabolu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17905",
+            "name": "KAPAKLI",
+            "path": "/tr-TR/17905/kapakli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9875",
+            "name": "M.EREĞLİSİ",
+            "path": "/tr-TR/9875/mereglisi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9876",
+            "name": "MALKARA",
+            "path": "/tr-TR/9876/malkara-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9877",
+            "name": "SARAY",
+            "path": "/tr-TR/9877/saray-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9878",
+            "name": "ŞARKÖY",
+            "path": "/tr-TR/9878/sarkoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9879",
+            "name": "TEKİRDAĞ",
+            "path": "/tr-TR/9879/tekirdag-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "573",
+        "name": "TOKAT",
+        "towns": [
+          {
+            "id": "9880",
+            "name": "ALMUS",
+            "path": "/tr-TR/9880/almus-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9881",
+            "name": "ARTOVA",
+            "path": "/tr-TR/9881/artova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9882",
+            "name": "BAŞÇİFTLİK",
+            "path": "/tr-TR/9882/basciftlik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17910",
+            "name": "ERBAA",
+            "path": "/tr-TR/17910/erbaa-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9883",
+            "name": "NİKSAR",
+            "path": "/tr-TR/9883/niksar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9884",
+            "name": "PAZAR (T)",
+            "path": "/tr-TR/9884/pazar-t-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9885",
+            "name": "REŞADİYE",
+            "path": "/tr-TR/9885/resadiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9886",
+            "name": "SULUSARAY",
+            "path": "/tr-TR/9886/sulusaray-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9887",
+            "name": "TOKAT",
+            "path": "/tr-TR/9887/tokat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9888",
+            "name": "TURHAL",
+            "path": "/tr-TR/9888/turhal-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9889",
+            "name": "YEŞİLYURT",
+            "path": "/tr-TR/9889/yesilyurt-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9890",
+            "name": "ZİLE",
+            "path": "/tr-TR/9890/zile-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "574",
+        "name": "TRABZON",
+        "towns": [
+          {
+            "id": "9891",
+            "name": "AKÇAABAT",
+            "path": "/tr-TR/9891/akcaabat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9892",
+            "name": "ARAKLI",
+            "path": "/tr-TR/9892/arakli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9893",
+            "name": "ARSİN",
+            "path": "/tr-TR/9893/arsin-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9894",
+            "name": "BEŞİKDÜZÜ",
+            "path": "/tr-TR/9894/besikduzu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9895",
+            "name": "ÇARŞIBAŞI",
+            "path": "/tr-TR/9895/carsibasi-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9896",
+            "name": "ÇAYKARA",
+            "path": "/tr-TR/9896/caykara-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9897",
+            "name": "DERNEKPAZARI",
+            "path": "/tr-TR/9897/dernekpazari-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9898",
+            "name": "DÜZKÖY",
+            "path": "/tr-TR/9898/duzkoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9899",
+            "name": "HAYRAT",
+            "path": "/tr-TR/9899/hayrat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9900",
+            "name": "KÖPRÜBAŞI (T)",
+            "path": "/tr-TR/9900/koprubasi-t-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9901",
+            "name": "OF",
+            "path": "/tr-TR/9901/of-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9902",
+            "name": "ŞALPAZARI",
+            "path": "/tr-TR/9902/salpazari-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9903",
+            "name": "SÜRMENE",
+            "path": "/tr-TR/9903/surmene-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9904",
+            "name": "TONYA",
+            "path": "/tr-TR/9904/tonya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9905",
+            "name": "TRABZON",
+            "path": "/tr-TR/9905/trabzon-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9906",
+            "name": "VAKFIKEBİR",
+            "path": "/tr-TR/9906/vakfikebir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9907",
+            "name": "YOMRA",
+            "path": "/tr-TR/9907/yomra-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "575",
+        "name": "TUNCELİ",
+        "towns": [
+          {
+            "id": "9908",
+            "name": "ÇEMİŞGEZEK",
+            "path": "/tr-TR/9908/cemisgezek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9909",
+            "name": "HOZAT",
+            "path": "/tr-TR/9909/hozat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9910",
+            "name": "NAZİMİYE",
+            "path": "/tr-TR/9910/nazimiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9911",
+            "name": "OVACIK",
+            "path": "/tr-TR/9911/ovacik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9912",
+            "name": "PERTEK",
+            "path": "/tr-TR/9912/pertek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9913",
+            "name": "PÜLÜMÜR",
+            "path": "/tr-TR/9913/pulumur-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9914",
+            "name": "TUNCELİ",
+            "path": "/tr-TR/9914/tunceli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "576",
+        "name": "UŞAK",
+        "towns": [
+          {
+            "id": "9915",
+            "name": "BANAZ",
+            "path": "/tr-TR/9915/banaz-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9916",
+            "name": "ESME",
+            "path": "/tr-TR/9916/esme-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9917",
+            "name": "KARAHALLI",
+            "path": "/tr-TR/9917/karahalli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9918",
+            "name": "SİVASLI",
+            "path": "/tr-TR/9918/sivasli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17909",
+            "name": "ULUBEY",
+            "path": "/tr-TR/17909/ulubey-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9919",
+            "name": "UŞAK",
+            "path": "/tr-TR/9919/usak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "577",
+        "name": "VAN",
+        "towns": [
+          {
+            "id": "9920",
+            "name": "BAHÇESARAY",
+            "path": "/tr-TR/9920/bahcesaray-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9921",
+            "name": "BAŞKALE",
+            "path": "/tr-TR/9921/baskale-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9922",
+            "name": "ÇALDIRAN",
+            "path": "/tr-TR/9922/caldiran-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9923",
+            "name": "ÇATAK",
+            "path": "/tr-TR/9923/catak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9924",
+            "name": "EDREMİT (V)",
+            "path": "/tr-TR/9924/edremit-v-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9925",
+            "name": "ERCİŞ",
+            "path": "/tr-TR/9925/ercis-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9926",
+            "name": "GEVAŞ",
+            "path": "/tr-TR/9926/gevas-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17912",
+            "name": "GÜRPINAR",
+            "path": "/tr-TR/17912/gurpinar-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9927",
+            "name": "MURADİYE",
+            "path": "/tr-TR/9927/muradiye-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9928",
+            "name": "ÖZALP",
+            "path": "/tr-TR/9928/ozalp-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9929",
+            "name": "SARAY (V)",
+            "path": "/tr-TR/9929/saray-v-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9930",
+            "name": "VAN",
+            "path": "/tr-TR/9930/van-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "578",
+        "name": "YALOVA",
+        "towns": [
+          {
+            "id": "9931",
+            "name": "ALTINOVA",
+            "path": "/tr-TR/9931/altinova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9932",
+            "name": "ARMUTLU",
+            "path": "/tr-TR/9932/armutlu-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9933",
+            "name": "ÇINARCIK",
+            "path": "/tr-TR/9933/cinarcik-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9934",
+            "name": "TERMAL",
+            "path": "/tr-TR/9934/termal-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9935",
+            "name": "YALOVA",
+            "path": "/tr-TR/9935/yalova-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "579",
+        "name": "YOZGAT",
+        "towns": [
+          {
+            "id": "9936",
+            "name": "AKDAĞMADENİ",
+            "path": "/tr-TR/9936/akdagmadeni-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9937",
+            "name": "AYDINCIK (Y)",
+            "path": "/tr-TR/9937/aydincik-y-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9938",
+            "name": "BOĞAZLIYAN",
+            "path": "/tr-TR/9938/bogazliyan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9939",
+            "name": "ÇANDIR",
+            "path": "/tr-TR/9939/candir-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9940",
+            "name": "ÇAYIRALAN",
+            "path": "/tr-TR/9940/cayiralan-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9941",
+            "name": "ÇEKEREK",
+            "path": "/tr-TR/9941/cekerek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9942",
+            "name": "KADIŞEHRİ",
+            "path": "/tr-TR/9942/kadisehri-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9943",
+            "name": "SARAYKENT",
+            "path": "/tr-TR/9943/saraykent-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9944",
+            "name": "SARIKAYA",
+            "path": "/tr-TR/9944/sarikaya-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "17879",
+            "name": "ŞEFAATLİ",
+            "path": "/tr-TR/17879/sefaatli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9946",
+            "name": "SORGUN",
+            "path": "/tr-TR/9946/sorgun-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9947",
+            "name": "YENİFAKILI",
+            "path": "/tr-TR/9947/yenifakili-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9948",
+            "name": "YERKÖY",
+            "path": "/tr-TR/9948/yerkoy-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9949",
+            "name": "YOZGAT",
+            "path": "/tr-TR/9949/yozgat-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "id": "580",
+        "name": "ZONGULDAK",
+        "towns": [
+          {
+            "id": "9950",
+            "name": "ALAPLI",
+            "path": "/tr-TR/9950/alapli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9951",
+            "name": "ÇAYCUMA",
+            "path": "/tr-TR/9951/caycuma-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9952",
+            "name": "DEVREK",
+            "path": "/tr-TR/9952/devrek-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9953",
+            "name": "GÖKÇEBEY",
+            "path": "/tr-TR/9953/gokcebey-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9954",
+            "name": "KARADENİZ EREĞLİ",
+            "path": "/tr-TR/9954/karadeniz-eregli-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "id": "9955",
+            "name": "ZONGULDAK",
+            "path": "/tr-TR/9955/zonguldak-icin-namaz-vakti",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      }
+    ]
+  }
+]

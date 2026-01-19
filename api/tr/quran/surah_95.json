@@ -1,0 +1,73 @@
+{
+  "number": 95,
+  "name": "سُورَةُ التِّينِ",
+  "englishName": "At-Tin",
+  "englishNameTranslation": "The Fig",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6099,
+      "text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "translation": "İncir ve zeytine and olsun,",
+      "numberInSurah": 1,
+      "juz": 30,
+      "page": 597
+    },
+    {
+      "number": 6100,
+      "text": "وَطُورِ سِينِينَ",
+      "translation": "And olsun Sina dağına,",
+      "numberInSurah": 2,
+      "juz": 30,
+      "page": 597
+    },
+    {
+      "number": 6101,
+      "text": "وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "translation": "And olsun bu güvenli Mekke şehrine ki:",
+      "numberInSurah": 3,
+      "juz": 30,
+      "page": 597
+    },
+    {
+      "number": 6102,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍۢ",
+      "translation": "Biz insanı en güzel şekilde yarattık,",
+      "numberInSurah": 4,
+      "juz": 30,
+      "page": 597
+    },
+    {
+      "number": 6103,
+      "text": "ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ",
+      "translation": "Sonra onu aşağıların en aşağısı kıldık.",
+      "numberInSurah": 5,
+      "juz": 30,
+      "page": 597
+    },
+    {
+      "number": 6104,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ",
+      "translation": "Yalnız, inanıp yararlı iş işleyenler bunun dışındadır. Onlara kesintisiz ecir vardır.",
+      "numberInSurah": 6,
+      "juz": 30,
+      "page": 597
+    },
+    {
+      "number": 6105,
+      "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "translation": "Öyleyken, sana dini yalan saydırtan nedir?",
+      "numberInSurah": 7,
+      "juz": 30,
+      "page": 597
+    },
+    {
+      "number": 6106,
+      "text": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ",
+      "translation": "Allah, hükmedenlerin en iyi hükmedeni değil midir?",
+      "numberInSurah": 8,
+      "juz": 30,
+      "page": 597
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 109,
+  "name": "سُورَةُ الكَافِرُونَ",
+  "englishName": "Al-Kaafiroon",
+  "englishNameTranslation": "The Disbelievers",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6208,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+      "translation": "De ki: \"Ey inkarcılar!\"",
+      "numberInSurah": 1,
+      "juz": 30,
+      "page": 603
+    },
+    {
+      "number": 6209,
+      "text": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "translation": "\"Ben sizin taptıklarınıza tapmam.\"",
+      "numberInSurah": 2,
+      "juz": 30,
+      "page": 603
+    },
+    {
+      "number": 6210,
+      "text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "translation": "\"Benim taptığıma da sizler tapmazsınız.\"",
+      "numberInSurah": 3,
+      "juz": 30,
+      "page": 603
+    },
+    {
+      "number": 6211,
+      "text": "وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ",
+      "translation": "\"Ben de sizin taptığınıza tapacak değilim.\"",
+      "numberInSurah": 4,
+      "juz": 30,
+      "page": 603
+    },
+    {
+      "number": 6212,
+      "text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "translation": "\"Benim taptığıma da sizler tapmıyorsunuz.\"",
+      "numberInSurah": 5,
+      "juz": 30,
+      "page": 603
+    },
+    {
+      "number": 6213,
+      "text": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "translation": "\"Sizin dininiz size, benim dinim banadır.\"",
+      "numberInSurah": 6,
+      "juz": 30,
+      "page": 603
+    }
+  ]
+}
