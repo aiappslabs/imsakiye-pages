@@ -1,0 +1,33 @@
+{
+  "number": 108,
+  "name": "سُورَةُ الكَوۡثَرِ",
+  "englishName": "Al-Kawthar",
+  "englishNameTranslation": "Abundance",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6205,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+      "translation": "Doğrusu sana pek çok nimet vermişizdir.",
+      "numberInSurah": 1,
+      "juz": 30,
+      "page": 602
+    },
+    {
+      "number": 6206,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "translation": "Öyleyse Rabbin için namaz kıl, kurban kes.",
+      "numberInSurah": 2,
+      "juz": 30,
+      "page": 602
+    },
+    {
+      "number": 6207,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "translation": "Doğrusu adı sanı ortadan kalkacak olan, sana kin tutan kimsedir.",
+      "numberInSurah": 3,
+      "juz": 30,
+      "page": 602
+    }
+  ]
+}

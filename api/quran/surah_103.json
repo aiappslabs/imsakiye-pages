@@ -1,0 +1,33 @@
+{
+  "number": 103,
+  "name": "سُورَةُ العَصۡرِ",
+  "englishName": "Al-Asr",
+  "englishNameTranslation": "The Declining Day, Epoch",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6177,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+      "translation": "İkindi vaktine (Asra; çağa) and olsun ki,",
+      "numberInSurah": 1,
+      "juz": 30,
+      "page": 601
+    },
+    {
+      "number": 6178,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+      "translation": "İnsan hiç şüphesiz hüsran içindedir.",
+      "numberInSurah": 2,
+      "juz": 30,
+      "page": 601
+    },
+    {
+      "number": 6179,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "translation": "Ancak inanıp yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sabırlı olmayı tavsiye edenler bunun dışındadır.",
+      "numberInSurah": 3,
+      "juz": 30,
+      "page": 601
+    }
+  ]
+}

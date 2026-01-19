@@ -1,0 +1,49 @@
+{
+  "number": 105,
+  "name": "سُورَةُ الفِيلِ",
+  "englishName": "Al-Fil",
+  "englishNameTranslation": "The Elephant",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6189,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "translation": "Fil sahiplerine Rabbinin ne ettiğini görmedin mi?",
+      "numberInSurah": 1,
+      "juz": 30,
+      "page": 601
+    },
+    {
+      "number": 6190,
+      "text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ",
+      "translation": "Onların düzenlerini boşa çıkarmadı mı?",
+      "numberInSurah": 2,
+      "juz": 30,
+      "page": 601
+    },
+    {
+      "number": 6191,
+      "text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "translation": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.",
+      "numberInSurah": 3,
+      "juz": 30,
+      "page": 601
+    },
+    {
+      "number": 6192,
+      "text": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ",
+      "translation": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.",
+      "numberInSurah": 4,
+      "juz": 30,
+      "page": 601
+    },
+    {
+      "number": 6193,
+      "text": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
+      "translation": "Sonunda onları, yenilmiş ekin gibi yaptı.",
+      "numberInSurah": 5,
+      "juz": 30,
+      "page": 601
+    }
+  ]
+}

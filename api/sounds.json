@@ -1,0 +1,27 @@
+[
+    {
+        "id": "default",
+        "name": "Varsayılan",
+        "url": ""
+    },
+    {
+        "id": "mecca",
+        "name": "Mekke",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/sounds/ezan_mecca.mp3"
+    },
+    {
+        "id": "medina",
+        "name": "Medine",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/sounds/ezan_medina.mp3"
+    },
+    {
+        "id": "istanbul",
+        "name": "İstanbul",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/sounds/ezan_istanbul.mp3"
+    },
+    {
+        "id": "ankara",
+        "name": "Ankara",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/sounds/ezan_ankara.mp3"
+    }
+]
