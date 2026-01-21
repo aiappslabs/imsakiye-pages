@@ -40,5 +40,33 @@
         "nameEn": "Islamic Detail",
         "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/islamic_detail.jpg",
         "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/islamic_detail.jpg"
+    },
+    {
+        "id": "sultanahmet_mosque",
+        "name": "Blue Mosque",
+        "nameEn": "Blue Mosque",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/sultanahmet_mosque.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/sultanahmet_mosque.jpg"
+    },
+    {
+        "id": "mosque_interior_dome",
+        "name": "Mosque Dome Interior",
+        "nameEn": "Mosque Dome Interior",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_interior_dome.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_interior_dome.jpg"
+    },
+    {
+        "id": "islamic_pattern_geo",
+        "name": "Islamic Geometric Pattern",
+        "nameEn": "Islamic Geometric Pattern",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/islamic_pattern_geo.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/islamic_pattern_geo.jpg"
+    },
+    {
+        "id": "mosque_night_moon",
+        "name": "Mosque at Night",
+        "nameEn": "Mosque at Night",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_night_moon.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_night_moon.jpg"
     }
 ]
