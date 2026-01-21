@@ -1,51 +1,44 @@
 [
     {
-        "id": "mosque_blue",
-        "name": "Mavi Cami",
-        "nameEn": "Blue Mosque",
-        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_blue.jpg",
-        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_blue.jpg"
+        "id": "mosque_dome",
+        "name": "Cami Kubbesi",
+        "nameEn": "Mosque Dome",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_dome.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_dome.jpg"
     },
     {
-        "id": "mosque_night",
-        "name": "Gece Cami",
+        "id": "mosque_night_new",
+        "name": "Gece Camii",
         "nameEn": "Night Mosque",
-        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_night.jpg",
-        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_night.jpg"
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_night_new.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_night_new.jpg"
     },
     {
-        "id": "kaaba",
-        "name": "Kabe",
-        "nameEn": "Kaaba",
-        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/kaaba.jpg",
-        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/kaaba.jpg"
+        "id": "mosque_golden",
+        "name": "Altın Kubbeli Cami",
+        "nameEn": "Golden Mosque",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_golden.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_golden.jpg"
     },
     {
-        "id": "medina",
-        "name": "Medine",
-        "nameEn": "Medina",
-        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/medina.jpg",
-        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/medina.jpg"
+        "id": "mosque_minaret",
+        "name": "Cami Minaresi",
+        "nameEn": "Mosque Minaret",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_minaret.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_minaret.jpg"
     },
     {
-        "id": "islamic_pattern",
-        "name": "İslami Desen",
-        "nameEn": "Islamic Pattern",
-        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/islamic_pattern.jpg",
-        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/islamic_pattern.jpg"
+        "id": "mosque_above",
+        "name": "Kuş Bakışı Cami",
+        "nameEn": "Mosque from Above",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/mosque_above.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/mosque_above.jpg"
     },
     {
-        "id": "ramadan_lantern",
-        "name": "Ramazan Feneri",
-        "nameEn": "Ramadan Lantern",
-        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/ramadan_lantern.jpg",
-        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/ramadan_lantern.jpg"
-    },
-    {
-        "id": "crescent_moon",
-        "name": "Hilal",
-        "nameEn": "Crescent Moon",
-        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/crescent_moon.jpg",
-        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/crescent_moon.jpg"
+        "id": "islamic_detail",
+        "name": "İslami Detay",
+        "nameEn": "Islamic Detail",
+        "thumbnail": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/thumbs/islamic_detail.jpg",
+        "url": "https://aiappslabs.github.io/imsakiye-pages/backgrounds/islamic_detail.jpg"
     }
 ]
